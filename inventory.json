@@ -1,0 +1,261 @@
+{
+  "dealership": "Mercedes Benz Langley",
+  "generated_at": "2026-09-25T10:38:40",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "CLA250 4MATIC2026 Mercedes-Benz",
+      "vin": "W1K5J4HB2TN567565",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/178ef1551b86.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042792",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042792?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:39:09",
+      "odometer_km": 38453,
+      "condition": "used"
+    },
+    {
+      "name": "CLA250 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1K5J4HB9TN573993",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/f12fcccee1ec.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:39:18",
+      "odometer_km": 37410,
+      "condition": "used"
+    },
+    {
+      "name": "CLE53 AMG 4MATIC+ Coupe2024 Mercedes-Benz",
+      "vin": "W1KMJ6CB6RF045166",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0660c5ae8001.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cle53-amg/2024-mercedes-benz-cle53-amg-id39222721",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cle53-amg/2024-mercedes-benz-cle53-amg-id39222721?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:39:26",
+      "odometer_km": 39166,
+      "condition": "used"
+    },
+    {
+      "name": "E53e 4MATIC+ Wagon2026 Mercedes-Benz",
+      "vin": "W1KLH6DB4TA229533",
+      "stock": "MB31105",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/a1e4b55a95e3.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/e53e/2026-mercedes-benz-e53e-id39200254",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/e53e/2026-mercedes-benz-e53e-id39200254?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:39:35",
+      "odometer_km": 15741,
+      "condition": "used"
+    },
+    {
+      "name": "G63 AMG SUV2025 Mercedes-Benz",
+      "vin": "W1NWH5AB0SX051050",
+      "stock": "MB31705",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0155a1020bd7.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/g63-amg/2025-mercedes-benz-g63-amg-id39116920",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/g63-amg/2025-mercedes-benz-g63-amg-id39116920?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:39:45",
+      "odometer_km": 12173,
+      "condition": "used"
+    },
+    {
+      "name": "GLE3502022 Mercedes-Benz",
+      "vin": "4JGFB4KE3NA792632",
+      "stock": "MB31705",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/cf53e42e70a7.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39116917",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39116917?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:39:53",
+      "odometer_km": 64236,
+      "condition": "used"
+    },
+    {
+      "name": "GLE350 4MATIC SUV2024 Mercedes-Benz",
+      "vin": "4JGFB4FB0RA987951",
+      "stock": "MB31705",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/ca8ddceaba5f.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2024-mercedes-benz-gle350-id39200253",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2024-mercedes-benz-gle350-id39200253?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:40:01",
+      "odometer_km": 72000,
+      "condition": "used"
+    },
+    {
+      "name": "GLE350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB3TB533419",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/bce2e7e4bf6b.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id38541372",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id38541372?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:40:11",
+      "odometer_km": 17638,
+      "condition": "used"
+    },
+    {
+      "name": "GLE350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB6TB532023",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/6124fb8700da.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id39042794",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id39042794?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:40:19",
+      "odometer_km": 27493,
+      "condition": "used"
+    },
+    {
+      "name": "GLE63 S 4MATIC+ SUV2023 Mercedes-Benz",
+      "vin": "4JGFB8KB5PA916092",
+      "stock": "MB32B00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/e6ff539a51a4.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle63-s/2023-mercedes-benz-gle63-s-id39026530",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle63-s/2023-mercedes-benz-gle63-s-id39026530?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:40:29",
+      "odometer_km": 73000,
+      "condition": "used"
+    },
+    {
+      "name": "GLS450 4MATIC2022 Mercedes-Benz",
+      "vin": "4JGFF5KE8NA757756",
+      "stock": "26B8637",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/7c1699f45525.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gls450/2022-mercedes-benz-gls450-id38868006",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gls450/2022-mercedes-benz-gls450-id38868006?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:40:38",
+      "odometer_km": 69998,
+      "condition": "used"
+    },
+    {
+      "name": "Sprinter Cargo Van 2500 High Roof I4 Diesel 1702025 Mercedes-Benz",
+      "vin": "W1Y4KCHY1SP795914",
+      "stock": "MB31505",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c08c6bb827d4.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2025-mercedes-benz-sprinter-cargo-van-id38893690",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2025-mercedes-benz-sprinter-cargo-van-id38893690?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:40:47",
+      "odometer_km": 47664,
+      "condition": "used"
+    },
+    {
+      "name": "CLE AMG 53 4MATIC2027 Mercedes-Benz",
+      "vin": "W1KMK6CB5VF137067",
+      "stock": "27B7067",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/60e4ec2cfd84.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cle/2027-mercedes-benz-cle-id39158119?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cle/2027-mercedes-benz-cle-id39158119?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:51:14",
+      "condition": "new"
+    },
+    {
+      "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
+      "vin": "W1NWH5AB7VX095079",
+      "stock": "27B5079",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/209e769cc4df.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/g-class/2027-mercedes-benz-g-class-id39061211?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/g-class/2027-mercedes-benz-g-class-id39061211?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:51:25",
+      "condition": "new"
+    },
+    {
+      "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
+      "vin": "W1NWH5AB2VX096687",
+      "stock": "27B6687",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/fa4fa0a993ac.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/g-class/2027-mercedes-benz-g-class-id39069314?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/g-class/2027-mercedes-benz-g-class-id39069314?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:51:37",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB8VF656298",
+      "stock": "27B6298",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/cbc9b19ac1e4.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026503?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026503?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:51:47",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB3VF646776",
+      "stock": "27B6776",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/305225ceadcd.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39049415?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39049415?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:51:56",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB5VF646018",
+      "stock": "27B6018",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/448555813ffc.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39061212?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39061212?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:52:07",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HBXVF653774",
+      "stock": "27B3774",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/9e1551d57207.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39131971?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39131971?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:52:17",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB6VF652721",
+      "stock": "27B2721",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/cc969eaba454.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39131972?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39131972?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:52:26",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB9VF660898",
+      "stock": "27B0898",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/f92881229e79.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39158120?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39158120?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:52:37",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB3VF664369",
+      "stock": "27B4369",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/d2f007f26798.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39158122?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39158122?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:52:45",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB7VF659880",
+      "stock": "27B9880",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/da08dff6d33c.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39164093?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39164093?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:52:55",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB2VF651757",
+      "stock": "27B1757",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/48f8d3f6570a.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39222688?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39222688?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-24T17:53:05",
+      "condition": "new"
+    }
+  ]
+}
