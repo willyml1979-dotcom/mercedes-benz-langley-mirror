@@ -1,6 +1,6 @@
 {
   "dealership": "Mercedes Benz Langley",
-  "generated_at": "2026-09-25T13:11:20",
+  "generated_at": "2026-09-25T19:24:46",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -100,7 +100,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/6124fb8700da.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id39042794",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id39042794?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:40:19",
+      "last_verified": "2026-09-25T18:38:33",
       "odometer_km": 27493,
       "condition": "used"
     },
@@ -111,7 +111,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/e6ff539a51a4.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle63-s/2023-mercedes-benz-gle63-s-id39026530",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle63-s/2023-mercedes-benz-gle63-s-id39026530?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:40:29",
+      "last_verified": "2026-09-25T18:38:42",
       "odometer_km": 73000,
       "condition": "used"
     },
@@ -122,7 +122,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/7c1699f45525.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gls450/2022-mercedes-benz-gls450-id38868006",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gls450/2022-mercedes-benz-gls450-id38868006?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:40:38",
+      "last_verified": "2026-09-25T18:38:52",
       "odometer_km": 69998,
       "condition": "used"
     },
@@ -133,7 +133,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c08c6bb827d4.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2025-mercedes-benz-sprinter-cargo-van-id38893690",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2025-mercedes-benz-sprinter-cargo-van-id38893690?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:40:47",
+      "last_verified": "2026-09-25T18:39:02",
       "odometer_km": 47664,
       "condition": "used"
     },
@@ -154,7 +154,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/209e769cc4df.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/g-class/2027-mercedes-benz-g-class-id39061211?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/g-class/2027-mercedes-benz-g-class-id39061211?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:51:25",
+      "last_verified": "2026-09-25T19:22:03",
       "condition": "new"
     },
     {
@@ -164,7 +164,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/fa4fa0a993ac.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/g-class/2027-mercedes-benz-g-class-id39069314?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/g-class/2027-mercedes-benz-g-class-id39069314?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:51:37",
+      "last_verified": "2026-09-25T19:22:15",
       "condition": "new"
     },
     {
@@ -174,7 +174,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/cbc9b19ac1e4.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026503?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026503?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:51:47",
+      "last_verified": "2026-09-25T19:22:28",
       "condition": "new"
     },
     {
@@ -184,7 +184,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/305225ceadcd.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39049415?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39049415?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:51:56",
+      "last_verified": "2026-09-25T19:22:37",
       "condition": "new"
     },
     {
@@ -194,7 +194,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/448555813ffc.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39061212?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39061212?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:52:07",
+      "last_verified": "2026-09-25T19:22:48",
       "condition": "new"
     },
     {
@@ -204,7 +204,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/9e1551d57207.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39131971?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39131971?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:52:17",
+      "last_verified": "2026-09-25T19:23:00",
       "condition": "new"
     },
     {
@@ -214,7 +214,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/cc969eaba454.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39131972?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39131972?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:52:26",
+      "last_verified": "2026-09-25T19:23:12",
       "condition": "new"
     },
     {
@@ -224,7 +224,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/f92881229e79.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39158120?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39158120?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:52:37",
+      "last_verified": "2026-09-25T19:23:24",
       "condition": "new"
     },
     {
@@ -234,7 +234,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/d2f007f26798.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39158122?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39158122?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:52:45",
+      "last_verified": "2026-09-25T19:23:35",
       "condition": "new"
     },
     {
@@ -244,7 +244,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/da08dff6d33c.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39164093?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39164093?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:52:55",
+      "last_verified": "2026-09-25T19:23:43",
       "condition": "new"
     },
     {
@@ -254,7 +254,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/48f8d3f6570a.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39222688?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39222688?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-24T17:53:05",
+      "last_verified": "2026-09-25T19:23:53",
       "condition": "new"
     }
   ]
