@@ -1,6 +1,6 @@
 {
   "dealership": "Mercedes Benz Langley",
-  "generated_at": "2026-09-25T19:24:46",
+  "generated_at": "2026-09-26T01:53:34",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -61,14 +61,14 @@
       "condition": "used"
     },
     {
-      "name": "GLE3502022 Mercedes-Benz",
-      "vin": "4JGFB4KE3NA792632",
-      "stock": "MB31705",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/cf53e42e70a7.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39116917",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2022-mercedes-benz-gle350-id39116917?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T12:37:06",
-      "odometer_km": 64236,
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB2NV393703",
+      "stock": "26B1981",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/7989fde21a4a.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39164111",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39164111?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:50:06",
+      "odometer_km": 42538,
       "condition": "used"
     },
     {
@@ -100,7 +100,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/6124fb8700da.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id39042794",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle350/2026-mercedes-benz-gle350-id39042794?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:38:33",
+      "last_verified": "2026-09-26T01:50:24",
       "odometer_km": 27493,
       "condition": "used"
     },
@@ -111,19 +111,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/e6ff539a51a4.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle63-s/2023-mercedes-benz-gle63-s-id39026530",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle63-s/2023-mercedes-benz-gle63-s-id39026530?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:38:42",
+      "last_verified": "2026-09-26T01:50:34",
       "odometer_km": 73000,
-      "condition": "used"
-    },
-    {
-      "name": "GLS450 4MATIC2022 Mercedes-Benz",
-      "vin": "4JGFF5KE8NA757756",
-      "stock": "26B8637",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/7c1699f45525.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gls450/2022-mercedes-benz-gls450-id38868006",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gls450/2022-mercedes-benz-gls450-id38868006?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:38:52",
-      "odometer_km": 69998,
       "condition": "used"
     },
     {
@@ -133,8 +122,19 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c08c6bb827d4.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2025-mercedes-benz-sprinter-cargo-van-id38893690",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-cargo-van/2025-mercedes-benz-sprinter-cargo-van-id38893690?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T18:39:02",
+      "last_verified": "2026-09-26T01:50:42",
       "odometer_km": 47664,
+      "condition": "used"
+    },
+    {
+      "name": "Sprinter Gas 2500 Cargo 1702022 Mercedes-Benz",
+      "vin": "W1Y40CHY7NT105181",
+      "stock": "25V6365",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c10542fde684.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39056130",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39056130?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T01:50:14",
+      "odometer_km": 149000,
       "condition": "used"
     },
     {
