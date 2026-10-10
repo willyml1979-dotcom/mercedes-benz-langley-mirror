@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Langley",
-  "generated_at": "2026-10-10T09:06:34",
-  "vehicle_count": 1210,
+  "generated_at": "2026-10-10T12:10:22",
+  "vehicle_count": 1211,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -3478,14 +3478,15 @@
       "province": "BC"
     },
     {
-      "name": "CLA250 4MATIC2026 Mercedes-Benz",
-      "vin": "W1K5J4HB2TN567565",
+      "name": "Pre-Owned Vehicles",
+      "vin": "4JGFB4FB3TB533419",
       "stock": "MB32B00",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/178ef1551b86.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042792",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042792?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T15:12:50",
-      "odometer_km": 38453,
+      "last_verified": "2026-10-10T12:09:48",
+      "price": 76991.0,
+      "price_currency": "CAD",
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -3497,7 +3498,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/f12fcccee1ec.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cla250/2026-mercedes-benz-cla250-id39042795?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T15:13:02",
+      "last_verified": "2026-10-10T12:09:57",
       "odometer_km": 37410,
       "condition": "used",
       "city": "Langley",
@@ -3569,14 +3570,15 @@
       "province": "BC"
     },
     {
-      "name": "CLE53 AMG 4MATIC+ Coupe2024 Mercedes-Benz",
-      "vin": "W1KMJ6CB6RF045166",
+      "name": "Pre-Owned Vehicles",
+      "vin": "4JGFB4FB3TB533419",
       "stock": "MB32B00",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0660c5ae8001.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cle53-amg/2024-mercedes-benz-cle53-amg-id39222721",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cle53-amg/2024-mercedes-benz-cle53-amg-id39222721?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-26T15:13:14",
-      "odometer_km": 39166,
+      "last_verified": "2026-10-10T12:10:12",
+      "price": 76991.0,
+      "price_currency": "CAD",
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -6227,6 +6229,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/ascent/2024-subaru-ascent-id39207356?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:42:16",
       "odometer_km": 48298,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Crosstrek Wilderness CVT2024 Subaru",
+      "vin": "4S4GUHU61R3816013",
+      "stock": "S12F000",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/161d3e7171a4.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38706709",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id38706709?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T12:06:50",
+      "odometer_km": 20634,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
