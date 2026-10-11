@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Langley",
-  "generated_at": "2026-10-10T12:10:22",
-  "vehicle_count": 1211,
+  "generated_at": "2026-10-10T17:22:53",
+  "vehicle_count": 1214,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -8543,6 +8543,18 @@
       "province": "BC"
     },
     {
+      "name": "CLE Cabriolet AMG 53 4MATIC2027 Mercedes-Benz",
+      "vin": "W1KMK6CB8VF139251",
+      "stock": "2766092",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/aa21903e6739.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cle/2027-mercedes-benz-cle-id39237655",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cle/2027-mercedes-benz-cle-id39237655?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T17:18:58",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "CLE 300 4MATIC Coupe2027 Mercedes-Benz",
       "vin": "W1KMJ4HB9VF140618",
       "stock": "7B0618",
@@ -8695,6 +8707,18 @@
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/e-class/2026-mercedes-benz-e-class-id38356617",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/e-class/2026-mercedes-benz-e-class-id38356617?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T07:36:39",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "E-Class 450 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KLF6BB1TA267682",
+      "stock": "2664791",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/7dc904b36faf.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/e-class/2026-mercedes-benz-e-class-id38412865",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/e-class/2026-mercedes-benz-e-class-id38412865?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T17:19:10",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -11966,6 +11990,18 @@
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39229052",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39229052?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T08:18:21",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB1VF662895",
+      "stock": "2766097",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/a58a267383f4.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39229062",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39229062?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-10T17:19:20",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
