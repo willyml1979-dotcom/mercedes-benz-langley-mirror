@@ -3,7 +3,7 @@
 > Mercedes Benz Langley is a  dealership in Langley. This mirror provides AI-readable access to current inventory and dealership information, kept in sync with the dealership's own website.
 
 ## Inventory
-- [Used vehicles](https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/): 1214 vehicles, updated regularly
+- [Used vehicles](https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/): 1215 vehicles, updated regularly
 - [Inventory feed](https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/inventory.json): structured JSON, all vehicles with VIN, price, mileage and availability
 
 ## Resources
