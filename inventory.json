@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Langley",
-  "generated_at": "2026-10-19T08:02:31",
-  "vehicle_count": 2516,
+  "generated_at": "2026-10-19T08:08:37",
+  "vehicle_count": 2519,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13478,7 +13478,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/88e851c6e7f4.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39150710",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39150710?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:28:23",
+      "last_verified": "2026-10-19T08:05:58",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13490,7 +13490,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/82fb67921b81.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39158197",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39158197?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:28:33",
+      "last_verified": "2026-10-19T08:06:09",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13502,7 +13502,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/d1238e2c0a98.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39237614",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39237614?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:28:42",
+      "last_verified": "2026-10-19T08:06:19",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13520,25 +13520,29 @@
       "province": "BC"
     },
     {
-      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
-      "vin": "W1KFJ4EB0VJ064667",
-      "stock": "27B4667",
+      "name": "New Vehicles",
+      "vin": "W1NKM4HB9VF660898",
+      "stock": "27B0898",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/2b0ec84170eb.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39246664",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39246664?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:28:53",
+      "last_verified": "2026-10-19T08:06:32",
+      "price": 77855.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
     },
     {
-      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
-      "vin": "W1KFJ4EBXVJ067866",
-      "stock": "27B7866",
+      "name": "New Vehicles",
+      "vin": "W1NKM4HB9VF660898",
+      "stock": "27B0898",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/6a4d0667e337.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39290081",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39290081?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:29:01",
+      "last_verified": "2026-10-19T08:06:47",
+      "price": 77855.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13588,7 +13592,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/ab19e74c446b.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37531975",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37531975?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:29:11",
+      "last_verified": "2026-10-19T08:06:58",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13613,7 +13617,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/24a3f6e21cd7.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37546852",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37546852?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:29:21",
+      "last_verified": "2026-10-19T08:07:08",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13625,19 +13629,21 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/b0db6b48f860.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37546853",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37546853?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:29:30",
+      "last_verified": "2026-10-19T08:07:16",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
     },
     {
-      "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB8TN596231",
-      "stock": "2651688",
+      "name": "New Vehicles",
+      "vin": "W1NKM4HB9VF660898",
+      "stock": "27B0898",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/8b6114c96e3a.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37564542",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37564542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:29:44",
+      "last_verified": "2026-10-19T08:07:31",
+      "price": 77855.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13649,7 +13655,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/bee998cc199f.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37600543",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37600543?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:29:54",
+      "last_verified": "2026-10-19T08:07:40",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13661,7 +13667,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/776289270b58.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37618917",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37618917?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:30:02",
+      "last_verified": "2026-10-19T08:07:52",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13673,7 +13679,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/a118e8b1618b.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37618920",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37618920?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:30:12",
+      "last_verified": "2026-10-19T08:08:01",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13711,7 +13717,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/9bc7f5499126.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37786392",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37786392?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:30:21",
+      "last_verified": "2026-10-19T08:08:11",
       "odometer_km": 5359,
       "condition": "new",
       "city": "Langley",
@@ -13825,8 +13831,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/4855f84f87ea.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id38171020",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id38171020?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:30:32",
-      "odometer_km": 5200,
+      "last_verified": "2026-10-19T08:08:20",
+      "odometer_km": 5350,
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13838,7 +13844,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/a89fbb2b24a1.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id38227325",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id38227325?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:30:43",
+      "last_verified": "2026-10-19T08:08:30",
       "odometer_km": 4787,
       "condition": "new",
       "city": "Langley",
@@ -17640,6 +17646,18 @@
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39289919",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39289919?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T20:53:42",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB5TJ889031",
+      "stock": "2665427",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/e65b12009061.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39289928",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39289928?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-19T08:05:30",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -21531,6 +21549,18 @@
       "province": "BC"
     },
     {
+      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1KMJ4HB7TF134250",
+      "stock": "2665770",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/8bcb42b8c9c9.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39080447",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39080447?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-19T08:05:41",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB9TF630023",
       "stock": "2665694",
@@ -21965,6 +21995,18 @@
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289913",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289913?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T21:34:19",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB1TF631585",
+      "stock": "2665693",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/f56156d97e42.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289916",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39289916?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-19T08:05:49",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
