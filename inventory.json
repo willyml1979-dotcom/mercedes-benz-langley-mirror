@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Langley",
-  "generated_at": "2026-10-18T20:20:42",
-  "vehicle_count": 2523,
+  "generated_at": "2026-10-18T20:27:43",
+  "vehicle_count": 2533,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -12830,14 +12830,15 @@
       "province": "BC"
     },
     {
-      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KAF4HB5TR306293",
-      "stock": "6T6293",
+      "name": "New Vehicles",
+      "vin": "W1NKM4HB9VF660898",
+      "stock": "27B0898",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/4e6657705e55.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37634594",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37634594?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:26:18",
-      "odometer_km": 5363,
+      "last_verified": "2026-10-18T20:25:35",
+      "price": 77855.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12849,7 +12850,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/b1e9b3594dcb.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37634600",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37634600?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:26:27",
+      "last_verified": "2026-10-18T20:25:47",
       "odometer_km": 5378,
       "condition": "new",
       "city": "Langley",
@@ -12862,7 +12863,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/58dbf38c3713.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37754830",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37754830?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:26:35",
+      "last_verified": "2026-10-18T20:25:56",
       "odometer_km": 3752,
       "condition": "new",
       "city": "Langley",
@@ -12901,7 +12902,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/80f84787ca4a.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37937962",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37937962?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:26:45",
+      "last_verified": "2026-10-18T20:26:05",
       "odometer_km": 7612,
       "condition": "new",
       "city": "Langley",
@@ -12914,8 +12915,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/2a1513b109ce.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37964809",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37964809?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:26:56",
-      "odometer_km": 7400,
+      "last_verified": "2026-10-18T20:26:15",
+      "odometer_km": 8600,
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -12927,7 +12928,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/34bd7a53daf8.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37975731",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id37975731?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:27:06",
+      "last_verified": "2026-10-18T20:26:23",
       "odometer_km": 6071,
       "condition": "new",
       "city": "Langley",
@@ -12940,7 +12941,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/94f51bd4063c.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38227326",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38227326?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:27:15",
+      "last_verified": "2026-10-18T20:26:33",
       "odometer_km": 5470,
       "condition": "new",
       "city": "Langley",
@@ -12978,7 +12979,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/691be86b4b6a.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38532342",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38532342?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:27:24",
+      "last_verified": "2026-10-18T20:26:44",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13064,7 +13065,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/c19dd4d3e912.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38741109",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38741109?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:27:34",
+      "last_verified": "2026-10-18T20:26:55",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13076,8 +13077,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/6d34d995d9d8.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38741124",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38741124?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:27:43",
-      "odometer_km": 2250,
+      "last_verified": "2026-10-18T20:27:04",
+      "odometer_km": 2750,
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13113,7 +13114,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/aca724324c07.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38835368",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id38835368?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:27:51",
+      "last_verified": "2026-10-18T20:27:15",
       "odometer_km": 2519,
       "condition": "new",
       "city": "Langley",
@@ -13344,7 +13345,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/c94a00100b38.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39042775",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39042775?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:28:01",
+      "last_verified": "2026-10-18T20:27:25",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -13446,6 +13447,18 @@
       "province": "BC"
     },
     {
+      "name": "C-Class AMG 43 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF8HB5TR354769",
+      "stock": "2665838",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/6dae2c8cb35e.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39229067",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39229067?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:23:25",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KAF4HB6TR357365",
       "stock": "2665848",
@@ -13500,7 +13513,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/ed3c8ee78ccb.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39246660",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39246660?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T07:28:11",
+      "last_verified": "2026-10-18T20:27:35",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -17216,6 +17229,18 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB4TJ889845",
+      "stock": "2665428",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/c8946337d5de.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39026420",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gla/2026-mercedes-benz-gla-id39026420?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:23:56",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HBXTJ889882",
       "stock": "2665427",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/0c6cdb753f56.html",
@@ -19384,6 +19409,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id37945232?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T07:52:53",
       "odometer_km": 5415,
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB2TF476836",
+      "stock": "6T6836",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/47e1109dd8e2.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id37945259",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id37945259?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:24:07",
+      "odometer_km": 4905,
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -26814,6 +26852,18 @@
       "province": "BC"
     },
     {
+      "name": "GLE 450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KE0TB720672",
+      "stock": "2665793",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/85842997aa01.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39012802",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39012802?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:24:17",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FB9TB720678",
       "stock": "2665803",
@@ -26833,6 +26883,18 @@
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39018419",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39018419?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T21:58:17",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB4TB720684",
+      "stock": "2665800",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/7cc7c7db24ac.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39034583",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39034583?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:24:27",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -27180,6 +27242,18 @@
     },
     {
       "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB7TB720663",
+      "stock": "2665800",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/102b0783e2d1.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39108923",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39108923?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:24:35",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
       "vin": "4JGFB4FE7TB678375",
       "stock": "2665310",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/7063700de0e7.html",
@@ -27378,6 +27452,18 @@
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39289922",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39289922?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T17:25:45",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB4FB2TB718450",
+      "stock": "2665800",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/329875a648bf.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39289933",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/gle/2026-mercedes-benz-gle-id39289933?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:24:45",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
@@ -30130,6 +30216,19 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHY8TP863217",
+      "stock": "2650489",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/bc9e6b15982e.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38613199",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38613199?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:24:55",
+      "odometer_km": 6442,
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KCHY5TP924903",
       "stock": "26S4903",
@@ -30827,6 +30926,18 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHYXTP940931",
+      "stock": "2666035",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/fcebc549036a.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954176",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954176?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:25:06",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KCHY1TP939799",
       "stock": "2666045",
@@ -30834,6 +30945,18 @@
       "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954177",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954177?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T22:31:06",
+      "condition": "new",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KCHY0TP939311",
+      "stock": "2666006",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/1031aab12978.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954181",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38954181?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-18T20:25:16",
       "condition": "new",
       "city": "Langley",
       "province": "BC"
