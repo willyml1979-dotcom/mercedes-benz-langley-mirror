@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Langley",
-  "generated_at": "2026-10-21T20:26:21",
-  "vehicle_count": 2593,
+  "generated_at": "2026-10-22T08:21:22",
+  "vehicle_count": 2641,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -124,12 +124,13 @@
     },
     {
       "name": "Integra Type S Manual2026 Acura",
-      "vin": "19UDE5G98TA800226",
-      "stock": "H22F001",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/90fed9495641.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/integra/2026-acura-integra-id39308885",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/integra/2026-acura-integra-id39308885?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T20:06:17",
+      "vin": "19UDE5G90TA800026",
+      "stock": "A12F000",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/a1d4425480d6.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/integra/2026-acura-integra-id39332854",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/integra/2026-acura-integra-id39332854?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:08:18",
+      "odometer_km": 11562,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -267,14 +268,14 @@
       "province": "BC"
     },
     {
-      "name": "MDX A-Spec SH-AWD2025 Acura",
-      "vin": "5J8YE1H07SL803485",
-      "stock": "A22F003",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/653b48bfe511.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39360486?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T18:58:20",
-      "odometer_km": 11360,
+      "name": "MDX Platinum Elite A-Spec SH-AWD2025 Acura",
+      "vin": "5J8YE1H96SL803976",
+      "stock": "A262451",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/cfff017ae3a8.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39399350",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/mdx/2025-acura-mdx-id39399350?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:08:28",
+      "odometer_km": 60880,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -399,19 +400,6 @@
       "province": "BC"
     },
     {
-      "name": "RDX A-Spec AWD2024 Acura",
-      "vin": "5J8TC2H64RL805697",
-      "stock": "A316059",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/d23f2a29d07d.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39354444",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/rdx/2024-acura-rdx-id39354444?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T18:58:58",
-      "odometer_km": 62000,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "RDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8TC2H67RL802633",
       "stock": "A260106",
@@ -446,6 +434,21 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/rdx/2025-acura-rdx-id39140300?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T17:06:59",
       "odometer_km": 22697,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "TL at2011 Acura",
+      "vin": "19UUA8F21BA800178",
+      "stock": "S261243",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/f01b6e9b20dd.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/tl/2011-acura-tl-id39399416",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/acura/tl/2011-acura-tl-id39399416?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:08:37",
+      "price": 16005.0,
+      "price_currency": "CAD",
+      "odometer_km": 106085,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -764,6 +767,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/audi/q8/2025-audi-q8-id38604622?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T17:07:58",
       "odometer_km": 33599,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RS 5 Sportback 2.9T quattro 8sp Tiptronic2023 Audi",
+      "vin": "WUAAWCF54PA900219",
+      "stock": "MB32F00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/4f9bb20d6af4.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/audi/rs-5-sportback/2023-audi-rs-5-sportback-id39399476",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/audi/rs-5-sportback/2023-audi-rs-5-sportback-id39399476?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:08:46",
+      "odometer_km": 36051,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -1293,19 +1309,6 @@
       "province": "BC"
     },
     {
-      "name": "X1 xDrive28i2023 BMW",
-      "vin": "WBX73EF09P5X75469",
-      "stock": "A22E002",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/1c233f333afc.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/bmw/x1/2023-bmw-x1-id39102899",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/bmw/x1/2023-bmw-x1-id39102899?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T19:06:01",
-      "odometer_km": 28834,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "X1 M35i xDrive2024 BMW",
       "vin": "WBX13EF03R5021685",
       "stock": "MB62E00",
@@ -1327,6 +1330,21 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/bmw/x1/2025-bmw-x1-id39042628?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T20:20:26",
       "odometer_km": 40473,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "X3 xDrive35i M Sport Line2014 BMW",
+      "vin": "5UXWX7C53E0E75446",
+      "stock": "2665909",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/d8e1295f754f.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/bmw/x3/2014-bmw-x3-id39399407",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/bmw/x3/2014-bmw-x3-id39399407?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:08:54",
+      "price": 14188.0,
+      "price_currency": "CAD",
+      "odometer_km": 113173,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -1765,19 +1783,6 @@
       "province": "BC"
     },
     {
-      "name": "Silverado 1500 Double Cab Standard Box 4-Wheel Drive LT2025 Chevrolet",
-      "vin": "1GCPKDEK5SZ212840",
-      "stock": "A12A015",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/03ce3ecb66c4.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860903",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860903?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:08:17",
-      "odometer_km": 22947,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Silverado 1500 Crew Cab Short Box 4x4 LT2025 Chevrolet",
       "vin": "1GCPKDEK8SZ214033",
       "stock": "A22A004",
@@ -1973,6 +1978,18 @@
       "province": "BC"
     },
     {
+      "name": "Roma Spider2026 Ferrari",
+      "vin": "ZFF09RPA4T0327905",
+      "stock": "MB11816",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/fad53a2afe56.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ferrari/roma-spider/2026-ferrari-roma-spider-id39399496",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ferrari/roma-spider/2026-ferrari-roma-spider-id39399496?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:09:04",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Bronco 4-Door Raptor Advanced 4X42022 Ford",
       "vin": "1FMEE5JR6NLA51201",
       "stock": "S12A002",
@@ -2051,6 +2068,19 @@
       "province": "BC"
     },
     {
+      "name": "Edge SEL - AWD2018 Ford",
+      "vin": "2FMPK4J86JBB66362",
+      "stock": "H261055",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/b3d5935f9f82.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/edge/2018-ford-edge-id39102742",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/edge/2018-ford-edge-id39102742?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:09:15",
+      "odometer_km": 96467,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Edge Titanium - AWD2019 Ford",
       "vin": "2FMPK4K97KBB58473",
       "stock": "LR26053",
@@ -2072,21 +2102,6 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/edge/2022-ford-edge-id38921974?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T19:11:16",
       "odometer_km": 60501,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Escape Titanium - 4WD2015 Ford",
-      "vin": "1FMCU9J95FUC47854",
-      "stock": "MB32B00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/23495bfae923.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/escape/2015-ford-escape-id39026529",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/escape/2015-ford-escape-id39026529?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:09:33",
-      "price": 9999.0,
-      "price_currency": "CAD",
-      "odometer_km": 134679,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2139,19 +2154,6 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/expedition/2025-ford-expedition-id38508801?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T19:09:52",
       "odometer_km": 19716,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Expedition Platinum 4x42025 Ford",
-      "vin": "1FMJU1M8XSEA01995",
-      "stock": "H316037",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0917db696dc4.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/expedition/2025-ford-expedition-id39026364",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/expedition/2025-ford-expedition-id39026364?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-19T19:10:01",
-      "odometer_km": 18745,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2254,7 +2256,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/cd0086ebac80.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38853454",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38853454?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:38:01",
+      "last_verified": "2026-10-22T08:18:54",
       "odometer_km": 26965,
       "condition": "used",
       "city": "Langley",
@@ -2267,21 +2269,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/b65ce2752c55.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id39049420",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id39049420?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:38:11",
+      "last_verified": "2026-10-22T08:19:04",
       "odometer_km": 18143,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "F-150 Tremor 4WD SuperCrew 5.5' Box2026 Ford",
-      "vin": "1FTFW4L83TFA35960",
-      "stock": "A12A016",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/341e2f248a82.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967622",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967622?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:38:20",
-      "odometer_km": 27447,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2293,8 +2282,21 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/651d8b911938.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967623",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/f-150/2026-ford-f-150-id38967623?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:38:28",
+      "last_verified": "2026-10-22T08:19:13",
       "odometer_km": 21483,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "F150 Lightning 4x4 - SuperCrew Platinum - 145 WB2023 Ford",
+      "vin": "1FT6W1EVXPWG09204",
+      "stock": "MB72F00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/65fd86e7fe62.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/f150-lightning/2023-ford-f150-lightning-id39399358",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/f150-lightning/2023-ford-f150-lightning-id39399358?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:09:23",
+      "odometer_km": 42000,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2440,7 +2442,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/6d2a0f49e37e.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/mustang/2022-ford-mustang-id39042791",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/mustang/2022-ford-mustang-id39042791?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:38:39",
+      "last_verified": "2026-10-22T08:19:22",
       "odometer_km": 33725,
       "condition": "used",
       "city": "Langley",
@@ -2453,7 +2455,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/7dcdba51cfe8.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/ranger/2025-ford-ranger-id39192084",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/ford/ranger/2025-ford-ranger-id39192084?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:38:50",
+      "last_verified": "2026-10-22T08:19:32",
       "odometer_km": 10021,
       "condition": "used",
       "city": "Langley",
@@ -2499,13 +2501,26 @@
       "province": "BC"
     },
     {
+      "name": "GV70 2.5T Advanced2025 GENESIS",
+      "vin": "KMUMADTB5SU193595",
+      "stock": "G117006",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/29974abf5c1c.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39026185",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39026185?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:09:32",
+      "odometer_km": 25331,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "GV70 2.5T Advanced Plus AWD2025 GENESIS",
       "vin": "KMUMADTB5SU216664",
       "stock": "A215010",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/91ae1a8310ed.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39207267",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39207267?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:39:17",
+      "last_verified": "2026-10-22T08:19:43",
       "odometer_km": 30571,
       "condition": "used",
       "city": "Langley",
@@ -2518,8 +2533,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/151033ea98c4.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39237287",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv70/2025-genesis-gv70-id39237287?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:39:26",
-      "odometer_km": 35832,
+      "last_verified": "2026-10-22T08:19:54",
+      "odometer_km": 35865,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2531,8 +2546,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/791b0691f656.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv70/2026-genesis-gv70-id38792337",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv70/2026-genesis-gv70-id38792337?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:39:36",
-      "odometer_km": 17569,
+      "last_verified": "2026-10-22T08:20:05",
+      "odometer_km": 17580,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2544,8 +2559,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/13ba10c703ee.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv70/2026-genesis-gv70-id39163750",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv70/2026-genesis-gv70-id39163750?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:39:45",
-      "odometer_km": 23371,
+      "last_verified": "2026-10-22T08:20:13",
+      "odometer_km": 23399,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -2583,7 +2598,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/b031104125a7.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39309123",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39309123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:39:54",
+      "last_verified": "2026-10-22T08:20:26",
       "odometer_km": 40698,
       "condition": "used",
       "city": "Langley",
@@ -2596,7 +2611,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/e2644b7d554a.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39325598",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/genesis/gv80/2025-genesis-gv80-id39325598?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:40:03",
+      "last_verified": "2026-10-22T08:20:36",
       "odometer_km": 37369,
       "condition": "used",
       "city": "Langley",
@@ -2661,7 +2676,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0065f2a6ccdd.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39192198",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39192198?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:40:30",
+      "last_verified": "2026-10-22T08:20:44",
       "odometer_km": 52321,
       "condition": "used",
       "city": "Langley",
@@ -2700,7 +2715,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/9ac8c208756b.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/gmc/sierra-1500/2026-gmc-sierra-1500-id38524056",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/gmc/sierra-1500/2026-gmc-sierra-1500-id38524056?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:40:38",
+      "last_verified": "2026-10-22T08:20:54",
       "odometer_km": 12300,
       "condition": "used",
       "city": "Langley",
@@ -2713,20 +2728,20 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/ed341437887a.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/gmc/sierra-1500/2026-gmc-sierra-1500-id38937722",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/gmc/sierra-1500/2026-gmc-sierra-1500-id38937722?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:40:48",
+      "last_verified": "2026-10-22T08:21:04",
       "odometer_km": 16022,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
     },
     {
-      "name": "Sierra 3500HD 4WD Crew Cab Long Box AT42024 GMC",
+      "name": "Sierra 3500HD 4WD Crew Cab Medium Box AT42024 GMC",
       "vin": "1GT49VEY1RF273378",
       "stock": "H32C000",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/686df1e82b86.html",
       "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id39034450",
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/gmc/sierra-3500hd/2024-gmc-sierra-3500hd-id39034450?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T01:41:09",
+      "last_verified": "2026-10-22T08:21:15",
       "odometer_km": 58496,
       "condition": "used",
       "city": "Langley",
@@ -2754,21 +2769,6 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/gmc/yukon/2022-gmc-yukon-id39034402?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T19:16:03",
       "odometer_km": 59480,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Accord Sedan EX-L V6 at2013 Honda",
-      "vin": "1HGCR2F8XDA802407",
-      "stock": "H127211",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/a06a846f9948.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/accord/2013-honda-accord-id39374891",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/accord/2013-honda-accord-id39374891?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T16:57:47",
-      "price": 19499.0,
-      "price_currency": "CAD",
-      "odometer_km": 88118,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -3074,6 +3074,19 @@
       "province": "BC"
     },
     {
+      "name": "Civic Type R2025 Honda",
+      "vin": "JHMFL5G49SX800053",
+      "stock": "H22C003",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/9add5360fbec.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39399155",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/civic/2025-honda-civic-id39399155?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:09:42",
+      "odometer_km": 6249,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Civic Type R2026 Honda",
       "vin": "JHMFL5G46TX800044",
       "stock": "H32F000",
@@ -3159,6 +3172,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39354604?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T19:19:07",
       "odometer_km": 34976,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2025 Honda",
+      "vin": "2HKRS6H70SH216426",
+      "stock": "H126164",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/b92585959dd7.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39399086",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/cr-v-hybrid/2025-honda-cr-v-hybrid-id39399086?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:09:53",
+      "odometer_km": 16888,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -3297,27 +3323,12 @@
       "province": "BC"
     },
     {
-      "name": "CRV EX-L 4WD at2011 Honda",
-      "vin": "5J6RE4H75BL808731",
-      "stock": "N226203",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/a58eebb69778.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/crv/2011-honda-crv-id39324142",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/crv/2011-honda-crv-id39324142?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T19:20:26",
-      "price": 8998.0,
-      "price_currency": "CAD",
-      "odometer_km": 212346,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Fit Hatchback  DX-A at2009 Honda",
+      "name": "Fit Hatchback DX at2008 Honda",
       "stock": "MB12C00",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/5f37f0152c40.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/fit/2009-honda-fit-id39375359",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/fit/2009-honda-fit-id39375359?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T16:58:26",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/bdb0f94035ff.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/fit/2008-honda-fit-id39375359",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/fit/2008-honda-fit-id39375359?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:10:03",
       "price": 10995.0,
       "price_currency": "CAD",
       "odometer_km": 97300,
@@ -3404,19 +3415,6 @@
       "province": "BC"
     },
     {
-      "name": "HR-V Sport AWD CVT2025 Honda",
-      "vin": "3CZRZ2H54SM110536",
-      "stock": "H313039",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/e57deaa8f9d3.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39367948",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/hr-v/2025-honda-hr-v-id39367948?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T16:58:37",
-      "odometer_km": 17586,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "HR-V Sport AWD CVT2026 Honda",
       "vin": "3CZRZ2H54TM100977",
       "stock": "H127147",
@@ -3438,6 +3436,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/odyssey/2019-honda-odyssey-id39346651?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T19:21:17",
       "odometer_km": 52268,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Odyssey Touring2019 Honda",
+      "vin": "5FNRL6H85KB501644",
+      "stock": "H126154",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/38f66ee64e54.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/odyssey/2019-honda-odyssey-id39399087",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/odyssey/2019-honda-odyssey-id39399087?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:10:11",
+      "odometer_km": 79890,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -3685,6 +3696,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/pilot/2025-honda-pilot-id39289816?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T01:47:43",
       "odometer_km": 22691,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Prologue Touring AWD2024 Honda",
+      "vin": "3GPKHZRJ6RS501819",
+      "stock": "H26672A",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/21f14aa95d54.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/prologue/2024-honda-prologue-id38137393",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/honda/prologue/2024-honda-prologue-id38137393?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:10:19",
+      "odometer_km": 21506,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -4774,6 +4798,19 @@
       "province": "BC"
     },
     {
+      "name": "Defender 90 P525 V82024 Land Rover",
+      "vin": "SALEB6EE0R2263185",
+      "stock": "JL26B00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/46a0d8fef6b9.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/land-rover/defender/2024-land-rover-defender-id39400692",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/land-rover/defender/2024-land-rover-defender-id39400692?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:10:30",
+      "odometer_km": 13475,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Defender 130 P500 V82025 Land Rover",
       "vin": "SALEWFFE9S2392051",
       "stock": "L26235A",
@@ -4873,6 +4910,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id39237544?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T01:54:39",
       "odometer_km": 10458,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Defender 110 P400 S2025 Land Rover",
+      "vin": "SALEJ7EUXS2397093",
+      "stock": "N116506",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/394460c8a370.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id39398765",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/land-rover/defender/2025-land-rover-defender-id39398765?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:10:40",
+      "odometer_km": 26349,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -5212,6 +5262,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/land-rover/range-rover-sport/2021-land-rover-range-rover-sport-id39380619?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T20:15:47",
       "odometer_km": 81713,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Range Rover Sport P400 HST2022 Land Rover",
+      "vin": "SALWS2RU6NA799153",
+      "stock": "LR26297",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/d9d5fdda6900.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/land-rover/range-rover-sport/2022-land-rover-range-rover-sport-id39400693",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/land-rover/range-rover-sport/2022-land-rover-range-rover-sport-id39400693?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:10:48",
+      "odometer_km": 66409,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -5855,6 +5918,31 @@
       "province": "BC"
     },
     {
+      "name": "NX 3502026 Lexus",
+      "vin": "2T2GGCEZ7TC111962",
+      "stock": "N116505",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/cb329760f4c5.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/lexus/nx/2026-lexus-nx-id39399467",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/lexus/nx/2026-lexus-nx-id39399467?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:10:59",
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "NXh NX 350h2025 Lexus",
+      "vin": "2T2GKCEZ6SC052206",
+      "stock": "JL26B00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/76045942fa61.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/lexus/nxh/2025-lexus-nxh-id39400689",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/lexus/nxh/2025-lexus-nxh-id39400689?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:11:10",
+      "odometer_km": 9886,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "RX 350 8A2017 Lexus",
       "vin": "2T2BZMCA9HC099988",
       "stock": "MB11815",
@@ -5954,19 +6042,6 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/lexus/uxh/2022-lexus-uxh-id39254522?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T19:38:32",
       "odometer_km": 55152,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "UXh 250h AWD2024 Lexus",
-      "vin": "JTHL9JBH3R2079157",
-      "stock": "2665063",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/64bde6d5115b.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/lexus/uxh/2024-lexus-uxh-id39368063",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/lexus/uxh/2024-lexus-uxh-id39368063?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-17T17:00:08",
-      "odometer_km": 43123,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -6097,6 +6172,21 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mazda/cx-70-phev/2025-mazda-cx-70-phev-id39089124?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:03:08",
       "odometer_km": 41955,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "CX-9 GT AWD2011 Mazda",
+      "vin": "JM3TB3DA1B0316853",
+      "stock": "2652274",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/4fffcb758b6d.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mazda/cx-9/2011-mazda-cx-9-id39383779",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mazda/cx-9/2011-mazda-cx-9-id39383779?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:11:20",
+      "price": 13995.0,
+      "price_currency": "CAD",
+      "odometer_km": 145000,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -6678,16 +6768,14 @@
       "province": "BC"
     },
     {
-      "name": "CLK320 Coupe2004 Mercedes-Benz",
-      "vin": "WDBTJ65J24F086069",
-      "stock": "6T2779A",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/23e5a5a73f2c.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/clk320/2004-mercedes-benz-clk320-id38727234",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/clk320/2004-mercedes-benz-clk320-id38727234?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T02:10:20",
-      "price": 8565.0,
-      "price_currency": "CAD",
-      "odometer_km": 90511,
+      "name": "CLE53 AMG 4MATIC+ Coupe2025 Mercedes-Benz",
+      "vin": "W1KMJ6CB5SF064832",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/49c85becd90a.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cle53-amg/2025-mercedes-benz-cle53-amg-id39254505",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/cle53-amg/2025-mercedes-benz-cle53-amg-id39254505?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:11:31",
+      "odometer_km": 15820,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -6851,6 +6939,19 @@
       "province": "BC"
     },
     {
+      "name": "EQB 250 SUV2025 Mercedes-Benz",
+      "vin": "W1N9M0CB2SN131910",
+      "stock": "MB52C00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/29e731ac281e.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/eqb-250/2025-mercedes-benz-eqb-250-id39399352",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/eqb-250/2025-mercedes-benz-eqb-250-id39399352?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:11:41",
+      "odometer_km": 11740,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1N9M0KB7SN137185",
       "stock": "MB61716",
@@ -6968,19 +7069,6 @@
       "province": "BC"
     },
     {
-      "name": "EQE320 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGGM1CB5TA070478",
-      "stock": "2665451",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c7921e644ecc.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/eqe320/2026-mercedes-benz-eqe320-id39332893",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/eqe320/2026-mercedes-benz-eqe320-id39332893?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T02:13:54",
-      "odometer_km": 7700,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "EQE500 4MATIC Sedan2023 Mercedes-Benz",
       "vin": "W1KEG2CBXPF028413",
       "stock": "MB11815",
@@ -7028,6 +7116,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/g550/2018-mercedes-benz-g550-id39200184?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:15:11",
       "odometer_km": 33500,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "G550 SUV2021 Mercedes-Benz",
+      "vin": "W1NYC6BJ8MX423109",
+      "stock": "MB72F00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/a6e9af6e835b.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/g550/2021-mercedes-benz-g550-id39274822",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/g550/2021-mercedes-benz-g550-id39274822?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:11:50",
+      "odometer_km": 19840,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -7139,6 +7240,19 @@
       "province": "BC"
     },
     {
+      "name": "G63 AMG SUV2022 Mercedes-Benz",
+      "vin": "W1NYC7HJ7NX443107",
+      "stock": "MB72A00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/ec3d99bcaeee.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/g63-amg/2022-mercedes-benz-g63-amg-id38893633",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/g63-amg/2022-mercedes-benz-g63-amg-id38893633?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:12:01",
+      "odometer_km": 46150,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "G63 AMG SUV2025 Mercedes-Benz",
       "vin": "W1NWH5AB0SX051050",
       "stock": "MB31705",
@@ -7208,6 +7322,19 @@
       "province": "BC"
     },
     {
+      "name": "GLA250 4MATIC SUV2018 Mercedes-Benz",
+      "vin": "WDCTG4GB9JJ428095",
+      "stock": "2652118",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/45aed1762206.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gla250/2018-mercedes-benz-gla250-id39387629",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gla250/2018-mercedes-benz-gla250-id39387629?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:12:10",
+      "odometer_km": 35488,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "GLA250 4MATIC SUV2019 Mercedes-Benz",
       "vin": "WDCTG4GB3KJ622896",
       "stock": "5T0017B",
@@ -7229,6 +7356,32 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gla250/2019-mercedes-benz-gla250-id39332954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:17:39",
       "odometer_km": 38900,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLA250 4MATIC SUV2019 Mercedes-Benz",
+      "vin": "WDCTG4GB3KU018800",
+      "stock": "MB31705",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/a7d6daaff622.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gla250/2019-mercedes-benz-gla250-id39393080",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gla250/2019-mercedes-benz-gla250-id39393080?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:12:21",
+      "odometer_km": 100935,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLA250 4MATIC SUV2021 Mercedes-Benz",
+      "vin": "W1N4N4HB5MJ251637",
+      "stock": "2665540",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/6c07cedebc9b.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gla250/2021-mercedes-benz-gla250-id39222623",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gla250/2021-mercedes-benz-gla250-id39222623?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:12:32",
+      "odometer_km": 97600,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -7346,6 +7499,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glb250/2022-mercedes-benz-glb250-id39267885?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:19:33",
       "odometer_km": 44777,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLB250 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N4M4HB2NW240621",
+      "stock": "26B5098",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/14ad72b902a0.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glb250/2022-mercedes-benz-glb250-id39375317",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glb250/2022-mercedes-benz-glb250-id39375317?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:12:40",
+      "odometer_km": 56000,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -7651,6 +7817,19 @@
     },
     {
       "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB7NV378761",
+      "stock": "2652209",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0d587bcecf1f.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375267",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375267?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:12:50",
+      "odometer_km": 40511,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
       "vin": "W1N0G8EB2NV368123",
       "stock": "MB61716",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/38cb510fa4f9.html",
@@ -7658,6 +7837,32 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375296?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T17:01:38",
       "odometer_km": 30927,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC Coupe2022 Mercedes-Benz",
+      "vin": "W1N0J8EB2NG024927",
+      "stock": "MB71603",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/8e6c46952852.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39387580",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39387580?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:12:58",
+      "odometer_km": 45200,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB7NV393955",
+      "stock": "2665504",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/bf37bc9acfbc.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39393067",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39393067?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:13:09",
+      "odometer_km": 45158,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -7840,6 +8045,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39281938?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:25:04",
       "odometer_km": 6267,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB5TF444625",
+      "stock": "MB71703",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/9e3be0425bce.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39387571",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39387571?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:13:19",
+      "odometer_km": 11350,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -8351,6 +8569,19 @@
       "province": "BC"
     },
     {
+      "name": "GLE450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KB7TB578682",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/52babb3f761a.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle450/2026-mercedes-benz-gle450-id39393065",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gle450/2026-mercedes-benz-gle450-id39393065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:13:29",
+      "odometer_km": 13448,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "GLE450e 4MATIC SUV2024 Mercedes-Benz",
       "vin": "4JGFB4GB9RB094542",
       "stock": "2652661",
@@ -8515,6 +8746,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gls450/2022-mercedes-benz-gls450-id39229073?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:33:51",
       "odometer_km": 78808,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GLS450 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "4JGFF5KEXPA974888",
+      "stock": "2652038",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/730bbad02251.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gls450/2023-mercedes-benz-gls450-id39399406",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/gls450/2023-mercedes-benz-gls450-id39399406?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:13:37",
+      "odometer_km": 42500,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -8693,6 +8937,19 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter 2500 Cargo 144 (2)2021 Mercedes-Benz",
+      "vin": "W1Y4DBHY4MP372249",
+      "stock": "25V5050",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/4d1a284a5ad4.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-2500-cargo-144-(2)/2021-mercedes-benz-sprinter-2500-cargo-144-(2)-id39393079",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-2500-cargo-144-(2)/2021-mercedes-benz-sprinter-2500-cargo-144-(2)-id39393079?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:13:46",
+      "odometer_km": 119066,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 1442024 Mercedes-Benz",
       "vin": "W1Y4KBHY4RP673603",
       "stock": "2665900",
@@ -8745,6 +9002,32 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter Gas 2500 Cargo 1702022 Mercedes-Benz",
+      "vin": "W1Y40CHY8NT095261",
+      "stock": "MB31305",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/9fcc760c98a7.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39061224",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-gas-2500-cargo/2022-mercedes-benz-sprinter-gas-2500-cargo-id39061224?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:13:54",
+      "odometer_km": 72423,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Sprinter V6 2500 Cargo 1442018 Mercedes-Benz",
+      "vin": "WD3BE7CDXJP632704",
+      "stock": "MB31705",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c70e66814578.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-v6-2500-cargo-144/2018-mercedes-benz-sprinter-v6-2500-cargo-144-id39387664",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mercedes-benz/sprinter-v6-2500-cargo-144/2018-mercedes-benz-sprinter-v6-2500-cargo-144-id39387664?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:14:04",
+      "odometer_km": 148962,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter V6 2500 Cargo 1702021 Mercedes-Benz",
       "vin": "W1Y4ECHY7MP410270",
       "stock": "26V7119",
@@ -8779,6 +9062,32 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mitsubishi/mirage/2024-mitsubishi-mirage-id39245223?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:37:36",
       "odometer_km": 69681,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Outlander Plug-In Hybrid SEL S-AWC2025 Mitsubishi",
+      "vin": "JA4T5VA94SZ606998",
+      "stock": "A22E002",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/35090c1134c4.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39174597",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39174597?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:14:13",
+      "odometer_km": 17608,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Outlander Plug-In Hybrid GT S-AWC2025 Mitsubishi",
+      "vin": "JA4T5WA96SZ602585",
+      "stock": "I27025A",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/3e2742a99263.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39380636",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39380636?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:14:24",
+      "odometer_km": 25430,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -8836,6 +9145,21 @@
       "province": "BC"
     },
     {
+      "name": "Altima Sedan 2.5 S CVT2015 Nissan",
+      "vin": "1N4AL3AP7FN374289",
+      "stock": "N216036",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/b6045582cea6.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/altima/2015-nissan-altima-id39387630",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/altima/2015-nissan-altima-id39387630?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:14:33",
+      "price": 9888.0,
+      "price_currency": "CAD",
+      "odometer_km": 85326,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Ariya Premiere e-4orce2023 Nissan",
       "vin": "JN1DF0CD5PM704103",
       "stock": "N212035",
@@ -8857,6 +9181,18 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39158052?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:38:17",
       "odometer_km": 21123,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "ARIYA EVOLVE+ e-4ORCE AWD2024 Nissan",
+      "vin": "JN1DF0BB3RM740097",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/87afaeb7f504.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39354463",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/ariya/2024-nissan-ariya-id39354463?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:14:42",
+      "odometer_km": 27967,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -9018,6 +9354,19 @@
       "province": "BC"
     },
     {
+      "name": "Murano SL AWD CVT2019 Nissan",
+      "vin": "5N1AZ2MS3KN116070",
+      "stock": "N216035",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/d4d3c2283fea.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/murano/2019-nissan-murano-id39392031",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/murano/2019-nissan-murano-id39392031?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:14:53",
+      "odometer_km": 121146,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Murano Platinum2023 Nissan",
       "vin": "5N1AZ2DS0PC122721",
       "stock": "N226102",
@@ -9026,6 +9375,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/murano/2023-nissan-murano-id39139532?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T19:45:44",
       "odometer_km": 56028,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Murano S2023 Nissan",
+      "vin": "5N1AZ2AS6PC140239",
+      "stock": "N213036",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c194e6254f43.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/murano/2023-nissan-murano-id39392338",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/murano/2023-nissan-murano-id39392338?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:15:02",
+      "odometer_km": 49019,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -9051,6 +9413,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/murano/2025-nissan-murano-id39309144?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:38:58",
       "odometer_km": 12541,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Pathfinder Platinum V6 4x4 at2016 Nissan",
+      "vin": "5N1AR2MM3GC637830",
+      "stock": "N213036",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/21c6d8256013.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/pathfinder/2016-nissan-pathfinder-id39387634",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/pathfinder/2016-nissan-pathfinder-id39387634?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:15:11",
+      "odometer_km": 93975,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -9309,6 +9684,19 @@
       "province": "BC"
     },
     {
+      "name": "Rogue Platinum CVT2023 Nissan",
+      "vin": "JN8BT3DD8PW319446",
+      "stock": "N213036",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/036c1a45e972.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39393056",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/rogue/2023-nissan-rogue-id39393056?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:15:22",
+      "odometer_km": 45066,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Rogue AWD SV Moonroof2024 Nissan",
       "vin": "JN8BT3BB9RW176219",
       "stock": "A12E002",
@@ -9395,6 +9783,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/sentra/2019-nissan-sentra-id39386854?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T19:07:52",
       "odometer_km": 122944,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Sentra2019 Nissan",
+      "vin": "3N1AB7AP8KY263125",
+      "stock": "N216035",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c901f0f2c9e6.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/sentra/2019-nissan-sentra-id39392032",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/nissan/sentra/2019-nissan-sentra-id39392032?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:15:31",
+      "odometer_km": 73610,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -9558,19 +9959,6 @@
       "province": "BC"
     },
     {
-      "name": "Cayenne AWD2016 Porsche",
-      "vin": "WP1AA2A24GLA03763",
-      "stock": "A215011",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/1101c0bed656.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/porsche/cayenne/2016-porsche-cayenne-id39332770",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/porsche/cayenne/2016-porsche-cayenne-id39332770?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T19:50:17",
-      "odometer_km": 87754,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
       "name": "Cayenne S2019 Porsche",
       "vin": "WP1AB2AY1KDA62290",
       "stock": "N216026",
@@ -9618,19 +10006,6 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/porsche/cayenne/2023-porsche-cayenne-id39102310?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:40:56",
       "odometer_km": 46071,
-      "condition": "used",
-      "city": "Langley",
-      "province": "BC"
-    },
-    {
-      "name": "Cayenne AWD2024 Porsche",
-      "vin": "WP1AA2AY6RDA00574",
-      "stock": "G12B005",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/17d91e633c29.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/porsche/cayenne/2024-porsche-cayenne-id38792334",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/porsche/cayenne/2024-porsche-cayenne-id38792334?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-10T02:41:05",
-      "odometer_km": 58428,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -9976,6 +10351,19 @@
       "province": "BC"
     },
     {
+      "name": "Crosstrek Limited CVT2019 Subaru",
+      "vin": "JF2GTALC0KH232380",
+      "stock": "H22C003",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0bd1b1afdcd4.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/crosstrek/2019-subaru-crosstrek-id39392897",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/crosstrek/2019-subaru-crosstrek-id39392897?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:15:41",
+      "odometer_km": 82955,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Crosstrek Outdoor CVT2021 Subaru",
       "vin": "JF2GTHSC8MH240076",
       "stock": "S12C003",
@@ -10205,6 +10593,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39383784?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T07:59:49",
       "odometer_km": 33619,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Crosstrek Limited CVT2024 Subaru",
+      "vin": "JF2GUHNC1RH265188",
+      "stock": "N216036",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/2f334432bb99.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39387631",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39387631?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:15:52",
+      "odometer_km": 62357,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -10610,6 +11011,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39380632?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T20:17:31",
       "odometer_km": 14949,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Forester Limited 2.5L CVT2025 Subaru",
+      "vin": "JF2SLDRC7SH445684",
+      "stock": "S260709",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/1bac0f6e2186.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39387644",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39387644?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:16:01",
+      "odometer_km": 17750,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -11033,6 +11447,19 @@
       "province": "BC"
     },
     {
+      "name": "Outback 2.4L Premier XT Turbo2022 Subaru",
+      "vin": "4S4BTHPDXN3117299",
+      "stock": "MB52F00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/1432d1e8e6fe.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/outback/2022-subaru-outback-id39399353",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/outback/2022-subaru-outback-id39399353?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:16:11",
+      "odometer_km": 60159,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Outback 2.4L Wilderness Turbo2023 Subaru",
       "vin": "4S4BTHTD7P3153783",
       "stock": "S12C002",
@@ -11067,6 +11494,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/outback/2024-subaru-outback-id39380625?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-18T20:17:51",
       "odometer_km": 32377,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Outback Limited XT AWD2024 Subaru",
+      "vin": "4S4BTHND2R3208558",
+      "stock": "S261461",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/2c479fe0a38c.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/outback/2024-subaru-outback-id39399417",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/subaru/outback/2024-subaru-outback-id39399417?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:16:22",
+      "odometer_km": 30866,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -11307,13 +11747,13 @@
     },
     {
       "name": "Model Y Performance2022 Tesla",
-      "vin": "7SAYGDEF1NF533540",
-      "stock": "H27086B",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/8630c38089d8.html",
-      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39332704",
-      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39332704?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-15T19:58:52",
-      "odometer_km": 35710,
+      "vin": "7SAYGDEF7NF544221",
+      "stock": "MB71303",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/bc3d2a9f2995.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39387576",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39387576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:16:32",
+      "odometer_km": 73200,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -11451,6 +11891,19 @@
       "province": "BC"
     },
     {
+      "name": "Corolla 4-door Sedan LE CVTi-S2019 Toyota",
+      "vin": "2T1BURHE0KC155206",
+      "stock": "A12E002",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c62d83dff4df.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/corolla/2019-toyota-corolla-id39393016",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/corolla/2019-toyota-corolla-id39393016?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:16:41",
+      "odometer_km": 90300,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Corolla 4-door Sedan LE CVT2020 Toyota",
       "vin": "5YFBPRBE5LP019655",
       "stock": "H126159",
@@ -11516,6 +11969,19 @@
       "province": "BC"
     },
     {
+      "name": "Corolla LE CVT2022 Toyota",
+      "vin": "5YFBPMBE2NP277640",
+      "stock": "6B4149B",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/ddd18d329e91.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/corolla/2022-toyota-corolla-id39387696",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/corolla/2022-toyota-corolla-id39387696?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:16:50",
+      "odometer_km": 48285,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Corolla LE CVT2026 Toyota",
       "vin": "5YFB4MDE6TP402822",
       "stock": "S131010",
@@ -11524,6 +11990,34 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/corolla/2026-toyota-corolla-id39171066?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T02:58:24",
       "odometer_km": 10618,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GR Supra 3.02022 Toyota",
+      "vin": "WZ1DB0C08NW051355",
+      "stock": "2652440",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/fea50a7ca6c3.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/gr-supra/2022-toyota-gr-supra-id39393066",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/gr-supra/2022-toyota-gr-supra-id39393066?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:16:58",
+      "odometer_km": 59989,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Highlander LTD AWD2015 Toyota",
+      "vin": "5TDDKRFH6FS168003",
+      "stock": "A215011",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/a633d24bb2d3.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/highlander/2015-toyota-highlander-id39399266",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/highlander/2015-toyota-highlander-id39399266?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:17:08",
+      "price": 32880.0,
+      "price_currency": "CAD",
+      "odometer_km": 30274,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -11637,6 +12131,19 @@
       "province": "BC"
     },
     {
+      "name": "Prius Plug-in Hybrid SE2024 Toyota",
+      "vin": "JTDACACU6R3021544",
+      "stock": "A215012",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/20b0491f4305.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/prius-plug-in-hybrid/2024-toyota-prius-plug-in-hybrid-id39399262",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/prius-plug-in-hybrid/2024-toyota-prius-plug-in-hybrid-id39399262?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:17:17",
+      "odometer_km": 4930,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Prius Prime SE2023 Toyota",
       "vin": "JTDACACUXP3009426",
       "stock": "2665391",
@@ -11645,6 +12152,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/prius-prime/2023-toyota-prius-prime-id39274862?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T20:01:35",
       "odometer_km": 84801,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RAV4 Hybrid XLE AWD2024 Toyota",
+      "vin": "2T3RWRFV2RW215434",
+      "stock": "L26070A",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0279aebd0cec.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/rav4-hybrid/2024-toyota-rav4-hybrid-id39281899",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/rav4-hybrid/2024-toyota-rav4-hybrid-id39281899?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:17:26",
+      "odometer_km": 61140,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -11662,6 +12182,21 @@
       "province": "BC"
     },
     {
+      "name": "RAV4 AWD XLE2014 Toyota",
+      "vin": "2T3RFREV3EW127388",
+      "stock": "L26696B",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/e1e1bf093e1a.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/rav4/2014-toyota-rav4-id39387625",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/rav4/2014-toyota-rav4-id39387625?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:17:34",
+      "price": 14999.0,
+      "price_currency": "CAD",
+      "odometer_km": 211000,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "RAV4 FWD LE2019 Toyota",
       "vin": "2T3Z1RFV7KW017310",
       "stock": "A12C018",
@@ -11670,6 +12205,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/rav4/2019-toyota-rav4-id39314785?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T20:01:46",
       "odometer_km": 79893,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "RAV4 XLE AWD2021 Toyota",
+      "vin": "2T3R1RFVXMW140747",
+      "stock": "H313040",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/8b543258d118.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/rav4/2021-toyota-rav4-id39387426",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/rav4/2021-toyota-rav4-id39387426?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:17:44",
+      "odometer_km": 119600,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -11882,6 +12430,19 @@
       "province": "BC"
     },
     {
+      "name": "Venza V6 AWD 6A2016 Toyota",
+      "vin": "4T3BK3BB3GU121775",
+      "stock": "A22E002",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c1aafd6902e4.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/venza/2016-toyota-venza-id39399264",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/toyota/venza/2016-toyota-venza-id39399264?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:17:56",
+      "odometer_km": 70524,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Atlas Cross Sport Execline 3.6L 8sp at w/Tip 4MOTION2020 Volkswagen",
       "vin": "1V2TE2CA1LC210560",
       "stock": "N116483",
@@ -11934,6 +12495,32 @@
       "province": "BC"
     },
     {
+      "name": "Golf Sportwagen Alltrack 1.8T Highline 6sp 4MOTION2019 Volkswagen",
+      "vin": "3VWM17AU9KM522017",
+      "stock": "A12C016",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/d9d4700bee07.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volkswagen/golf-sportwagen-alltrack/2019-volkswagen-golf-sportwagen-alltrack-id39393017",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volkswagen/golf-sportwagen-alltrack/2019-volkswagen-golf-sportwagen-alltrack-id39393017?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:18:05",
+      "odometer_km": 140731,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "GOLF Trendline2017 Volkswagen",
+      "vin": "3VW217AU7HM056054",
+      "stock": "S261056",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/cba2fba5c48d.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volkswagen/golf/2017-volkswagen-golf-id39061198",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volkswagen/golf/2017-volkswagen-golf-id39061198?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:18:16",
+      "odometer_km": 140672,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Golf 5-Dr 1.4T Comfortline  8sp at2021 Volkswagen",
       "vin": "3VWG57AU8MM003884",
       "stock": "S113021",
@@ -11942,6 +12529,19 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volkswagen/golf/2021-volkswagen-golf-id38967665?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T20:03:01",
       "odometer_km": 122948,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "Jetta GLI 2.0T 7Sp at DSG w/Tip2022 Volkswagen",
+      "vin": "3VW2T7BU5NM029701",
+      "stock": "A113014",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/f505d76d70a3.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volkswagen/jetta-gli/2022-volkswagen-jetta-gli-id39387512",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volkswagen/jetta-gli/2022-volkswagen-jetta-gli-id39387512?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:18:26",
+      "odometer_km": 58481,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
@@ -11986,6 +12586,21 @@
       "province": "BC"
     },
     {
+      "name": "Tiguan Comfortline 6sp at Tip 4M2010 Volkswagen",
+      "vin": "WVGBV7AX3AW516118",
+      "stock": "A316058",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/6680d6783eb5.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volkswagen/tiguan/2010-volkswagen-tiguan-id39399351",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volkswagen/tiguan/2010-volkswagen-tiguan-id39399351?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:18:35",
+      "price": 6699.0,
+      "price_currency": "CAD",
+      "odometer_km": 139907,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
       "name": "Tiguan Highline 2.0T 4M2021 Volkswagen",
       "vin": "3VV4B7AXXMM055463",
       "stock": "2652644",
@@ -12020,6 +12635,21 @@
       "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volkswagen/tiguan/2026-volkswagen-tiguan-id39124314?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T03:02:53",
       "odometer_km": 18712,
+      "condition": "used",
+      "city": "Langley",
+      "province": "BC"
+    },
+    {
+      "name": "C30 T5 A Intro2011 Volvo",
+      "vin": "YV1672MKXB2206280",
+      "stock": "S113022",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/f2e71c6dd4b7.html",
+      "source_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volvo/c30/2011-volvo-c30-id39393071",
+      "dealer_url": "https://www.mercedes-benz-langley.ca/en/used-inventory/volvo/c30/2011-volvo-c30-id39393071?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-22T08:18:45",
+      "price": 8995.0,
+      "price_currency": "CAD",
+      "odometer_km": 216675,
       "condition": "used",
       "city": "Langley",
       "province": "BC"
