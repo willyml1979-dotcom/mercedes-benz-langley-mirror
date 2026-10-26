@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Langley",
-  "generated_at": "2026-10-25T20:52:29",
-  "vehicle_count": 2616,
+  "generated_at": "2026-10-25T20:58:44",
+  "vehicle_count": 2610,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -6134,6 +6134,12 @@
     },
     {
       "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF4HB4TR344632",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/88b4dc6dee17.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KAF4HB3TR343343",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/36346c681809.html",
       "condition": "new"
@@ -6172,6 +6178,12 @@
       "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
       "vin": "W1KAF4HB0TR351531",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/630590beb7ef.html",
+      "condition": "new"
+    },
+    {
+      "name": "C-Class 300 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KAF4HB5TR351542",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/552df6605272.html",
       "condition": "new"
     },
     {
@@ -7667,12 +7679,6 @@
       "condition": "new"
     },
     {
-      "name": "G-Class AMG 63 SUV2027 Mercedes-Benz",
-      "vin": "4JGFB6FB9VB744011",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/56b47268e1ec.html",
-      "condition": "new"
-    },
-    {
       "name": "GLA 250 4MATIC SUV2025 Mercedes-Benz",
       "vin": "W1N4N4HBXSJ744727",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/5f97651ce04d.html",
@@ -7772,12 +7778,6 @@
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB7TJ795748",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/bb7ac9077640.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB7TJ816078",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/cd4347760cab.html",
       "condition": "new"
     },
     {
@@ -8238,6 +8238,12 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB5TJ884752",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/877af637ae53.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB8TJ877455",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/e588f50ff398.html",
       "condition": "new"
@@ -8310,12 +8316,6 @@
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB2TJ873420",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/f22c10caec08.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB3TJ883986",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/f77fa79c965e.html",
       "condition": "new"
@@ -8336,12 +8336,6 @@
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB7TJ899544",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/ea8d4625eb5d.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB5TJ904871",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/a0e3b4d1fd64.html",
       "condition": "new"
     },
     {
@@ -8642,6 +8636,12 @@
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4N4HB0TJ905085",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/55abfe2e4a09.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB4TJ905686",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/fb1e0f726b33.html",
       "condition": "new"
     },
     {
@@ -9036,12 +9036,6 @@
     },
     {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB5TW493364",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/16d11af16252.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB6TW482311",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/0ddb8e31a116.html",
       "condition": "new"
@@ -9084,20 +9078,8 @@
     },
     {
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB0TW479906",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/ba624fbdb586.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB3TW492858",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/63399c534f5b.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4M4HB0TW490212",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/0940c4bd814f.html",
       "condition": "new"
     },
     {
@@ -9170,6 +9152,12 @@
       "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1N4M4HB3TW492083",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/40e665f2af28.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB7TW484536",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/500e91ca83ca.html",
       "condition": "new"
     },
     {
@@ -9629,12 +9617,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB5TF482548",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/9d79cd43873c.html",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1NKJ4HB3TF521811",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/c798edf9ad82.html",
@@ -9833,6 +9815,12 @@
       "condition": "new"
     },
     {
+      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB7TF518806",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/06866f3ae2b7.html",
+      "condition": "new"
+    },
+    {
       "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
       "vin": "W1NKJ4HBXTF459825",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/7d018b0959b8.html",
@@ -9876,14 +9864,14 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB5TF611906",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/846ae55c688c.html",
+      "vin": "W1NKM4HB0TF562744",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/51b8e7f74821.html",
       "condition": "new"
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB0TF562744",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/51b8e7f74821.html",
+      "vin": "W1NKM4HBXTF609309",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/ef39146a1cf7.html",
       "condition": "new"
     },
     {
@@ -9980,12 +9968,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB4TF611752",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/2d46dd7b4f96.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC AMG 43 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1NKM8HB7TF588815",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/9904ca35f738.html",
       "condition": "new"
     },
     {
@@ -10529,6 +10511,12 @@
       "condition": "new"
     },
     {
+      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1NKJ4HB9TF644755",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/2ab2b1e3d95b.html",
+      "condition": "new"
+    },
+    {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB1TF623843",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/958f8510a1b3.html",
@@ -10562,12 +10550,6 @@
       "name": "GLC 350e 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM5GB6TF460047",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/7281a436ec1c.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB9TF630023",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/f094d7612c64.html",
       "condition": "new"
     },
     {
@@ -10668,12 +10650,6 @@
     },
     {
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB2TF631014",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/1bee913d6576.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB9TF582619",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/234f106bbdf5.html",
       "condition": "new"
@@ -10730,12 +10706,6 @@
       "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
       "vin": "W1NKM4HB6TF593139",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/ad821e8401be.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLC 300 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1NKM4HB3TF564245",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/aabe47bbc169.html",
       "condition": "new"
     },
     {
@@ -11276,6 +11246,12 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB1VF658787",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/f284d520aecd.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB3VF658693",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/bd0e5de97faf.html",
       "condition": "new"
     },
     {
@@ -12685,12 +12661,6 @@
       "condition": "new"
     },
     {
-      "name": "GLE 350 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "4JGFB4FB3TB674586",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/8664f68939bb.html",
-      "condition": "new"
-    },
-    {
       "name": "GLE AMG 53 4MATIC+ SUV2026 Mercedes-Benz",
       "vin": "4JGFB6BB5TB673117",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/85a25cd88fab.html",
@@ -13390,12 +13360,6 @@
       "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
       "vin": "4JGFD6BB5TB714825",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/5ebf70804c98.html",
-      "condition": "new"
-    },
-    {
-      "name": "GLE AMG 53 4MATIC+ Coupe2026 Mercedes-Benz",
-      "vin": "4JGFD6BB9TB714360",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/953d25adc28a.html",
       "condition": "new"
     },
     {
@@ -14312,12 +14276,6 @@
     },
     {
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
-      "vin": "W1Y4KBHYXTP887986",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/0a09fb73e8b7.html",
-      "condition": "new"
-    },
-    {
-      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY3TP887571",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/4f3268f4978c.html",
       "condition": "new"
@@ -14470,6 +14428,12 @@
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHYXTP895389",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/d17bfada726d.html",
+      "condition": "new"
+    },
+    {
+      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHYXTP895926",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/new/d4f399c508a9.html",
       "condition": "new"
     },
     {
