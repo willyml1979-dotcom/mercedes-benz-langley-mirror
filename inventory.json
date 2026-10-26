@@ -1,6 +1,6 @@
 {
   "dealership": "Mercedes Benz Langley",
-  "generated_at": "2026-10-25T20:58:44",
+  "generated_at": "2026-10-26T05:44:41",
   "vehicle_count": 2610,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -226,6 +226,12 @@
       "condition": "used",
       "price": 16005.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "TLX A-Spec2020 Acura",
+      "vin": "19UUB1F66LA800329",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/931e65121488.html",
+      "condition": "used"
     },
     {
       "name": "TLX SH-AWD Platinum Elite2021 Acura",
@@ -475,12 +481,6 @@
       "name": "SQ7 4.0 TFSI quattro2026 Audi",
       "vin": "WA1AWBF74TD012971",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/fb2c515999db.html",
-      "condition": "used"
-    },
-    {
-      "name": "TT RS 2.5T quattro 7sp S Tronic Coupe2019 Audi",
-      "vin": "WUAASAFV4K1900164",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/aa8790058407.html",
       "condition": "used"
     },
     {
@@ -2392,12 +2392,6 @@
     },
     {
       "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
-      "vin": "SAL1L9FU5RA401456",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/76504ef6c278.html",
-      "condition": "used"
-    },
-    {
-      "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
       "vin": "SAL1L9FU1RA419064",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/57548a50ff43.html",
       "condition": "used"
@@ -4110,6 +4104,12 @@
       "name": "Outlander Plug-In Hybrid GT S-AWC2025 Mitsubishi",
       "vin": "JA4T5WA96SZ602585",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/1e7d96ecd40b.html",
+      "condition": "used"
+    },
+    {
+      "name": "Outlander Plug-In Hybrid SE S-AWC2025 Mitsubishi",
+      "vin": "JA4T5VA96SZ621678",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/90c33ca2f837.html",
       "condition": "used"
     },
     {
