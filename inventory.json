@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Langley",
-  "generated_at": "2026-11-18T08:02:54",
-  "vehicle_count": 2785,
+  "generated_at": "2026-11-18T16:10:55",
+  "vehicle_count": 2788,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -210,6 +210,12 @@
       "condition": "used"
     },
     {
+      "name": "RDX SH-AWD A-Spec2023 Acura",
+      "vin": "5J8TC2H61PL804181",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/124ede0366c3.html",
+      "condition": "used"
+    },
+    {
       "name": "RDX A-Spec SH-AWD2024 Acura",
       "vin": "5J8TC2H69RL802617",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/5a6f9847ab66.html",
@@ -275,6 +281,12 @@
       "name": "TLX SH-AWD A-Spec2022 Acura",
       "vin": "19UUB6F54NA800434",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/08c27dde3065.html",
+      "condition": "used"
+    },
+    {
+      "name": "TLX A-Spec SH-AWD2023 Acura",
+      "vin": "19UUB6F57PA800382",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/db1c97aab74d.html",
       "condition": "used"
     },
     {
@@ -1908,6 +1920,12 @@
       "name": "Palisade Ultimate Calligraphy 7-Passenger AWD2025 Hyundai",
       "vin": "KM8R5DGEXSU815296",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/2bf0b4c23285.html",
+      "condition": "used"
+    },
+    {
+      "name": "Palisade Preferred 8-Passenger AWD2025 Hyundai",
+      "vin": "KM8R2DGE0SU854312",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/48854879e463.html",
       "condition": "used"
     },
     {
