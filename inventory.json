@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Langley",
-  "generated_at": "2026-11-17T04:24:30",
-  "vehicle_count": 2810,
+  "generated_at": "2026-11-17T22:03:48",
+  "vehicle_count": 2797,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -45,6 +45,12 @@
       "name": "Integra Type S MT2025 Acura",
       "vin": "19UDE5G95SA800201",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/d45b4dce50de.html",
+      "condition": "used"
+    },
+    {
+      "name": "Integra Type S MT2025 Acura",
+      "vin": "19UDE5G96SA800160",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0140aadb59d9.html",
       "condition": "used"
     },
     {
@@ -186,12 +192,6 @@
       "condition": "used"
     },
     {
-      "name": "RDX A-Spec2021 Acura",
-      "vin": "5J8TC2H62ML807747",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/2b50ea5da697.html",
-      "condition": "used"
-    },
-    {
       "name": "RDX SH-AWD Tech at2021 Acura",
       "vin": "5J8TC2H56ML809881",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c9a5e75501db.html",
@@ -237,6 +237,12 @@
       "name": "RDX A-Spec AWD2024 Acura",
       "vin": "5J8TC2H69RL806120",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/e6d081686aaa.html",
+      "condition": "used"
+    },
+    {
+      "name": "RDX Platinum Elite A-Spec AWD2024 Acura",
+      "vin": "5J8TC2H85RL800977",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/004abf3e6df0.html",
       "condition": "used"
     },
     {
@@ -300,12 +306,6 @@
       "condition": "used"
     },
     {
-      "name": "A6 3.0T Progressiv quattro2019 Audi",
-      "vin": "WAUK2AF29KN056104",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/215372fb234c.html",
-      "condition": "used"
-    },
-    {
       "name": "Q3 2.0T Progressiv quattro 8sp Tiptronic2019 Audi",
       "vin": "WA1EECF35K1066254",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/5f9ac0feabbd.html",
@@ -360,9 +360,9 @@
       "condition": "used"
     },
     {
-      "name": "Q6 e-tron Progressiv quattro2025 Audi",
-      "vin": "WA154BGF1SA007658",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/57a23785b85d.html",
+      "name": "Q5 Progressiv 45 TFSI quattro 7sp S Tronic2024 Audi",
+      "vin": "WA1EAAFY8R2096770",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/ecd399834480.html",
       "condition": "used"
     },
     {
@@ -456,6 +456,12 @@
       "condition": "used"
     },
     {
+      "name": "RS Q8 TFSI quattro2024 Audi",
+      "vin": "WU1ARBF15RD013583",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/80d87bdf83ed.html",
+      "condition": "used"
+    },
+    {
       "name": "RS Q8 performance 4.0 TFSI quattro2026 Audi",
       "vin": "WU1ARBF17TD001362",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/ce29d7641403.html",
@@ -471,6 +477,12 @@
       "name": "S3 Progressiv quattro 7sp S tronic2024 Audi",
       "vin": "WAUH3CGY6RA116167",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/e128b2ce33ac.html",
+      "condition": "used"
+    },
+    {
+      "name": "S5 3.0T Technik quattro 8sp Tiptronic Cpe2020 Audi",
+      "vin": "WAUR4AF51LA002484",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/93509bb51e29.html",
       "condition": "used"
     },
     {
@@ -699,12 +711,6 @@
       "name": "M5 Sedan2025 BMW",
       "vin": "WBS83FK0XSCU12642",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/3b1470791676.html",
-      "condition": "used"
-    },
-    {
-      "name": "M8 Competition Coupe2025 BMW",
-      "vin": "WBSAE0C08SCU02442",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/f6ab72072546.html",
       "condition": "used"
     },
     {
@@ -1022,14 +1028,6 @@
       "condition": "used"
     },
     {
-      "name": "Grand Caravan SE / SXT2014 Dodge",
-      "vin": "2C4RDGBG9ER117717",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/e74aa45459c4.html",
-      "condition": "used",
-      "price": 14999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Grand Caravan Canada Value Package2016 Dodge",
       "vin": "2C4RDGBGXGR364571",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/662c7ee90379.html",
@@ -1120,12 +1118,6 @@
       "condition": "used"
     },
     {
-      "name": "Edge SE AWD2022 Ford",
-      "vin": "2FMPK4G97NBB00277",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0f4f60537455.html",
-      "condition": "used"
-    },
-    {
       "name": "Expedition Platinum Max2022 Ford",
       "vin": "1FMJK1MT5NEA09839",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/5e58fa2a69e7.html",
@@ -1144,21 +1136,9 @@
       "condition": "used"
     },
     {
-      "name": "Explorer ST 4WD2025 Ford",
-      "vin": "1FMWK8GC9SGC08774",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/62139dff440a.html",
-      "condition": "used"
-    },
-    {
       "name": "F-150 HYBRID Supercab Lariat - Powerboost2021 Ford",
       "vin": "1FTFW1ED3MFA93691",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/15f3c778aaca.html",
-      "condition": "used"
-    },
-    {
-      "name": "F-150 4x4 SuperCrew Tremor - 145'' WB2023 Ford",
-      "vin": "1FTEW1E84PFB92751",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/1280a572dc6b.html",
       "condition": "used"
     },
     {
@@ -1183,12 +1163,6 @@
       "name": "F-150 LARIAT 4WD SuperCrew 6.5' Box2026 Ford",
       "vin": "1FTFW5L87TKD28385",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/651d8b911938.html",
-      "condition": "used"
-    },
-    {
-      "name": "F150 Lightning 4x4 - SuperCrew LARIAT - 145 WB2023 Ford",
-      "vin": "1FTEW1EP8PKF17867",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/4dca4f636e0e.html",
       "condition": "used"
     },
     {
@@ -1318,12 +1292,6 @@
       "condition": "used"
     },
     {
-      "name": "Acadia AWD Denali2019 GMC",
-      "vin": "1GKKNXLS1KZ117069",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/6864356acd92.html",
-      "condition": "used"
-    },
-    {
       "name": "Acadia AWD AT42023 GMC",
       "vin": "1GKKNLLS9PZ158730",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/33591aaa6c9a.html",
@@ -1363,18 +1331,6 @@
       "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali2024 GMC",
       "vin": "3GTUUGEL2RG268526",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/f2453d458b50.html",
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali Ultimate2026 GMC",
-      "vin": "1GTUUHE89TZ106532",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/9ac8c208756b.html",
-      "condition": "used"
-    },
-    {
-      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali Ultimate2026 GMC",
-      "vin": "1GTUUHE8XTZ101002",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/ed341437887a.html",
       "condition": "used"
     },
     {
@@ -1461,12 +1417,6 @@
       "name": "Accord SE CVT Sedan2025 Honda",
       "vin": "1HGCY1F48SA800081",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/4eeec81fb9db.html",
-      "condition": "used"
-    },
-    {
-      "name": "Accord SE CVT Sedan2025 Honda",
-      "vin": "1HGCY1F48SA800582",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/5f6f6e14ff25.html",
       "condition": "used"
     },
     {
@@ -1607,6 +1557,12 @@
     },
     {
       "name": "CR-V Hybrid EX-L AWD2024 Honda",
+      "vin": "2HKRS6H76RH213802",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/bdceaa9c92fe.html",
+      "condition": "used"
+    },
+    {
+      "name": "CR-V Hybrid EX-L AWD2024 Honda",
       "vin": "2HKRS6H73RH200845",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/12914333cc59.html",
       "condition": "used"
@@ -1616,6 +1572,14 @@
       "vin": "2HKRS6H95TH222919",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/95dc3e54d964.html",
       "condition": "used"
+    },
+    {
+      "name": "CR-V EX-L AWD2014 Honda",
+      "vin": "2HKRM4H79EH122130",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/a3168752f555.html",
+      "condition": "used",
+      "price": 17880.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V LX AWD CVT2019 Honda",
@@ -1669,12 +1633,6 @@
       "name": "CR-V Sport AWD2024 Honda",
       "vin": "2HKRS4H51RH100486",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/b4637fec4041.html",
-      "condition": "used"
-    },
-    {
-      "name": "CR-V Sport AWD2024 Honda",
-      "vin": "2HKRS4H58RH108679",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/546549bd8b58.html",
       "condition": "used"
     },
     {
@@ -1743,14 +1701,6 @@
       "vin": "3CZRZ2H54TM100977",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/9750ef804ea1.html",
       "condition": "used"
-    },
-    {
-      "name": "Odyssey EX2013 Honda",
-      "vin": "5FNRL5H41DB507290",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/d98678d024d6.html",
-      "condition": "used",
-      "price": 4750.0,
-      "price_currency": "CAD"
     },
     {
       "name": "Odyssey Touring2014 Honda",
@@ -1877,12 +1827,6 @@
       "condition": "used"
     },
     {
-      "name": "Ridgeline Touring2019 Honda",
-      "vin": "5FPYK3F74KB506171",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/3aea4ae8be3a.html",
-      "condition": "used"
-    },
-    {
       "name": "Ridgeline Touring2022 Honda",
       "vin": "5FPYK3F70NB500839",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/45a9eb840652.html",
@@ -1997,6 +1941,12 @@
       "condition": "used"
     },
     {
+      "name": "Santa Fe 2.5T XRT AWD 7-Pass2024 Hyundai",
+      "vin": "5NMP3DGLXRH020184",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/410d74512491.html",
+      "condition": "used"
+    },
+    {
       "name": "Santa Fe 1.6T Preferred Hybrid AWD 7-Pass2026 Hyundai",
       "vin": "KM8P2DG13TU174586",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/a1434a691e86.html",
@@ -2024,12 +1974,6 @@
       "name": "Tucson AWD 2.4L Urban Edition2020 Hyundai",
       "vin": "KM8J3CAL1LU160645",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/2c8f3eeee89b.html",
-      "condition": "used"
-    },
-    {
-      "name": "Tucson N Line AWD2023 Hyundai",
-      "vin": "KM8JCCAE8PU239589",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/30b817a04e65.html",
       "condition": "used"
     },
     {
@@ -2123,12 +2067,6 @@
       "condition": "used"
     },
     {
-      "name": "F-TYPE Coupe SVR AWD2017 Jaguar",
-      "vin": "SAJXJ6J80HMK45521",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/238ffc723156.html",
-      "condition": "used"
-    },
-    {
       "name": "I-PACE R-Dynamic HSE (2)2024 Jaguar",
       "vin": "SADHM2S15R1642458",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/99f6296b22ec.html",
@@ -2186,6 +2124,12 @@
       "name": "Wrangler Unlimited Rubicon2021 Jeep",
       "vin": "1C4JJXFM9MW835165",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c56f46c69689.html",
+      "condition": "used"
+    },
+    {
+      "name": "Wrangler Jl Unlimited Sport2018 Jeep",
+      "vin": "1C4HJXDGXJW104347",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/054e28557669.html",
       "condition": "used"
     },
     {
@@ -2273,6 +2217,12 @@
       "condition": "used"
     },
     {
+      "name": "Sportage SX Turbo2018 Kia",
+      "vin": "KNDPRCA64J7380901",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/d6f85a5d2432.html",
+      "condition": "used"
+    },
+    {
       "name": "Telluride SX AWD2020 Kia",
       "vin": "5XYP5DHC8LG045742",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/4e086feb4fa5.html",
@@ -2285,12 +2235,6 @@
       "condition": "used"
     },
     {
-      "name": "Defender 110 P400 X-Dynamic HSE2021 Land Rover",
-      "vin": "SALE37RU6M2046530",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/d7cf63a0ef52.html",
-      "condition": "used"
-    },
-    {
       "name": "Defender 90 P400 75th Anniversary (2)2023 Land Rover",
       "vin": "SALEW6EU7P2172410",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/c6d274aae38b.html",
@@ -2300,12 +2244,6 @@
       "name": "Defender 130 P400 First Edition (2)2023 Land Rover",
       "vin": "SALEVFEU4P2170889",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/26bb8209a855.html",
-      "condition": "used"
-    },
-    {
-      "name": "Defender 110 P400 SE (2)2023 Land Rover",
-      "vin": "SALEP7EU1P2127336",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/cf11a237d2ec.html",
       "condition": "used"
     },
     {
@@ -2533,6 +2471,12 @@
       "condition": "used"
     },
     {
+      "name": "Range Rover Sport V8 Supercharged Autobiography Dynamic2018 Land Rover",
+      "vin": "SALWV2RE2JA807131",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/04d8f1567b93.html",
+      "condition": "used"
+    },
+    {
       "name": "Range Rover Sport V8 Supercharged HSE Dynamic2020 Land Rover",
       "vin": "SALWR2SE8LA890954",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/9194bd0fc883.html",
@@ -2683,6 +2627,12 @@
       "condition": "used"
     },
     {
+      "name": "Range Rover Velar P380 HSE R-Dynamic2019 Land Rover",
+      "vin": "SALYM2EV0KA781390",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/b98681814191.html",
+      "condition": "used"
+    },
+    {
       "name": "Range Rover Velar P250 S2020 Land Rover",
       "vin": "SALYB2EX8LA295418",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/6fcf5db081e0.html",
@@ -2764,6 +2714,12 @@
       "name": "Range Rover 5.0L V8 Supercharged P525 Autobiography LWB (2)2020 Land Rover",
       "vin": "SALGS5SE4LA585140",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/14309f10d0d9.html",
+      "condition": "used"
+    },
+    {
+      "name": "Range Rover 5.0L V8 Supercharged P525 Autobiography LWB2020 Land Rover",
+      "vin": "SALGV5SE0LA592156",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/5ab64d40de60.html",
       "condition": "used"
     },
     {
@@ -2971,12 +2927,6 @@
       "condition": "used"
     },
     {
-      "name": "Quattroporte S Q4 GranLusso2017 Maserati",
-      "vin": "ZAM56RRL7H1197479",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/de77ef34805a.html",
-      "condition": "used"
-    },
-    {
       "name": "CX-3 GS2020 Mazda",
       "vin": "JM1DKDC70L1462469",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/19b5ca658bda.html",
@@ -2995,12 +2945,6 @@
       "condition": "used",
       "price": 9999.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "CX-5 GT AWD at2017 Mazda",
-      "vin": "JM3KFBDL5H0105322",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/449cb9c50a73.html",
-      "condition": "used"
     },
     {
       "name": "CX-50 GT AWD2024 Mazda",
@@ -3181,12 +3125,6 @@
       "condition": "used"
     },
     {
-      "name": "C43 AMG 4MATIC Sedan2023 Mercedes-Benz",
-      "vin": "W1KAF8HB0PR110677",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/9a7756714d47.html",
-      "condition": "used"
-    },
-    {
       "name": "C43 AMG 4MATIC Sedan2025 Mercedes-Benz",
       "vin": "W1KAF8HB9SR287009",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/ff39fca9ca3d.html",
@@ -3293,6 +3231,14 @@
       "condition": "used"
     },
     {
+      "name": "E300 4MATIC Sedan2014 Mercedes-Benz",
+      "vin": "WDDHF8BB0EB042345",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/607dad36e27e.html",
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "E350 4MATIC Sedan2020 Mercedes-Benz",
       "vin": "WDDZF8EB9LA713790",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/fbb7dbc52957.html",
@@ -3317,12 +3263,6 @@
       "condition": "used",
       "price": 22995.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "E450 4MATIC Sedan2022 Mercedes-Benz",
-      "vin": "W1KZF5KB9NB080093",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/f62ff71360fd.html",
-      "condition": "used"
     },
     {
       "name": "E450 4MATIC Sedan2026 Mercedes-Benz",
@@ -3489,12 +3429,6 @@
       "condition": "used"
     },
     {
-      "name": "G63 AMG SUV2020 Mercedes-Benz",
-      "vin": "WDCYC7HJ7LX339473",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/84662ae35838.html",
-      "condition": "used"
-    },
-    {
       "name": "G63 AMG SUV2021 Mercedes-Benz",
       "vin": "W1NYC7HJ0MX368216",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/a715f14fec6b.html",
@@ -3571,12 +3505,6 @@
       "condition": "used"
     },
     {
-      "name": "GLA250 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "W1N4N4HB2PJ446342",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/5e351d03c4ab.html",
-      "condition": "used"
-    },
-    {
       "name": "GLA250 4MATIC2024 Mercedes-Benz",
       "vin": "W1N4N4HB5RJ602201",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/2649249d2122.html",
@@ -3650,12 +3578,6 @@
     },
     {
       "name": "GLB250 4MATIC SUV2022 Mercedes-Benz",
-      "vin": "W1N4M4HB8NW239862",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0b299ef2cb4b.html",
-      "condition": "used"
-    },
-    {
-      "name": "GLB250 4MATIC SUV2022 Mercedes-Benz",
       "vin": "W1N4M4HBXNW253004",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0651d7503598.html",
       "condition": "used"
@@ -3670,12 +3592,6 @@
       "name": "GLB250 4MATIC SUV2023 Mercedes-Benz",
       "vin": "W1N4M4HB9PW261274",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/263d34b7853d.html",
-      "condition": "used"
-    },
-    {
-      "name": "GLB250 4MATIC SUV2023 Mercedes-Benz",
-      "vin": "W1N4M4HB8PW313736",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/6757941705a0.html",
       "condition": "used"
     },
     {
@@ -3907,6 +3823,12 @@
       "condition": "used"
     },
     {
+      "name": "GLC300 4MATIC Coupe2023 Mercedes-Benz",
+      "vin": "W1N0J8EB1PG129218",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/365e90e69694.html",
+      "condition": "used"
+    },
+    {
       "name": "GLC300 4MATIC SUV2024 Mercedes-Benz",
       "vin": "W1NKM4HB5RF180735",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/57f755284184.html",
@@ -3994,12 +3916,6 @@
       "name": "GLC43 AMG 4MATIC SUV2018 Mercedes-Benz",
       "vin": "WDC0G6EB3JF390979",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/fad53598dc19.html",
-      "condition": "used"
-    },
-    {
-      "name": "GLC43 AMG 4MATIC SUV2018 Mercedes-Benz",
-      "vin": "WDC0G6EB4JF438389",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/024b5899c784.html",
       "condition": "used"
     },
     {
@@ -4329,26 +4245,10 @@
       "condition": "used"
     },
     {
-      "name": "M-Class 3.0L CDI2008 Mercedes-Benz",
-      "vin": "4JGBB22E18A323515",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/fae9950c5cc5.html",
-      "condition": "used",
-      "price": 10999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "Metris Passenger Van2021 Mercedes-Benz",
       "vin": "W1WV0FEY6M3924748",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/b74254f3354b.html",
       "condition": "used"
-    },
-    {
-      "name": "ML350 BlueTEC 4MATIC SUV2015 Mercedes-Benz",
-      "vin": "4JGDA2EB5FA531956",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0d275e836d5d.html",
-      "condition": "used",
-      "price": 14995.0,
-      "price_currency": "CAD"
     },
     {
       "name": "S580 4MATIC Sedan2023 Mercedes-Benz",
@@ -4416,6 +4316,12 @@
       "name": "Sprinter 2500 Cargo 144 (2)2021 Mercedes-Benz",
       "vin": "W1Y4DBHY4MP372249",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/4d1a284a5ad4.html",
+      "condition": "used"
+    },
+    {
+      "name": "Sprinter 2500 Cargo 144 (2)2021 Mercedes-Benz",
+      "vin": "W1Y4DBHY5MP378738",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/7e7d4b32f150.html",
       "condition": "used"
     },
     {
@@ -4577,6 +4483,12 @@
       "condition": "used"
     },
     {
+      "name": "Kicks Play S FWD2025 Nissan",
+      "vin": "3N1CP5BV7SL473112",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/4ad207660086.html",
+      "condition": "used"
+    },
+    {
       "name": "Kicks SR2019 Nissan",
       "vin": "3N1CP5CU5KL496457",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/fab275bf90e3.html",
@@ -4705,12 +4617,6 @@
       "condition": "used"
     },
     {
-      "name": "Pathfinder Rock Creek AWD2023 Nissan",
-      "vin": "5N1DR3BE7PC239163",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/e10a6658b958.html",
-      "condition": "used"
-    },
-    {
       "name": "Pathfinder SV V6 4x4 at2023 Nissan",
       "vin": "5N1DR3BE4PC247141",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/0c0f92689913.html",
@@ -4726,12 +4632,6 @@
       "name": "Pathfinder SL 4WD2024 Nissan",
       "vin": "5N1DR3CE1RC248975",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/ae6ca3fa5d7c.html",
-      "condition": "used"
-    },
-    {
-      "name": "Qashqai SL AWD CVT2023 Nissan",
-      "vin": "JN1BJ1BW0PW102616",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/1a58980b081d.html",
       "condition": "used"
     },
     {
@@ -4834,12 +4734,6 @@
       "name": "Rogue AWD SV Moonroof2025 Nissan",
       "vin": "JN8BT3BBXSW176302",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/d3265cabf50b.html",
-      "condition": "used"
-    },
-    {
-      "name": "Rogue AWD S2025 Nissan",
-      "vin": "JN8BT3AB5SW156251",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/4e3406629874.html",
       "condition": "used"
     },
     {
@@ -4985,12 +4879,6 @@
       "condition": "used"
     },
     {
-      "name": "Cayenne2021 Porsche",
-      "vin": "WP1AA2AY0MDA01017",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/66df97d802df.html",
-      "condition": "used"
-    },
-    {
       "name": "Cayenne GTS2023 Porsche",
       "vin": "WP1AG2AY1PDA18086",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/16a36c02011a.html",
@@ -5096,6 +4984,12 @@
       "name": "RAM 1500 Classic Crew Cab 4x4 (DS) ST2021 Ram",
       "vin": "3C6RR7KT9MG536225",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/db85b5bc4a1b.html",
+      "condition": "used"
+    },
+    {
+      "name": "RAM 1500 Classic Crew Cab 4x4 (DS) SLT (140.5 WB 5'7 Box) SWB2021 Ram",
+      "vin": "1C6RR7LG4MS569482",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/344357b73688.html",
       "condition": "used"
     },
     {
@@ -5667,6 +5561,12 @@
       "condition": "used"
     },
     {
+      "name": "Impreza Touring CVT2026 Subaru",
+      "vin": "JF1GUAFC8T8251628",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/da6afbc2ca44.html",
+      "condition": "used"
+    },
+    {
       "name": "Outback 2.5i Limited w/ Eyesight at2018 Subaru",
       "vin": "4S4BSDNC4J3381344",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/1b2623ac116c.html",
@@ -5715,6 +5615,12 @@
       "condition": "used"
     },
     {
+      "name": "Outback 2.4L Wilderness Turbo2025 Subaru",
+      "vin": "4S4BTHTD753167501",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/40fde9f9df40.html",
+      "condition": "used"
+    },
+    {
       "name": "Outback 2.4L Limited XT Turbo2026 Subaru",
       "vin": "JF2BURHD2TY463662",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/796795bef6e9.html",
@@ -5745,6 +5651,12 @@
       "condition": "used"
     },
     {
+      "name": "WRX 4Dr Sport-Tech w/ Eyesight CVT2023 Subaru",
+      "vin": "JF1VBAN63P8805754",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/1cf37dee60e1.html",
+      "condition": "used"
+    },
+    {
       "name": "WRX Sport 6MT2024 Subaru",
       "vin": "JF1VBAH69R9812331",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/9878738d094c.html",
@@ -5757,12 +5669,6 @@
       "condition": "used"
     },
     {
-      "name": "Model 3 Standard Range Plus2020 Tesla",
-      "vin": "5YJ3E1EA1LF670216",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/76a435dbda70.html",
-      "condition": "used"
-    },
-    {
       "name": "Model 3 Standard Range Plus2021 Tesla",
       "vin": "5YJ3E1EA2MF048211",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/d5773cad8db0.html",
@@ -5772,12 +5678,6 @@
       "name": "Model 3 Long Range AWD2023 Tesla",
       "vin": "5YJ3E1EB9PF676618",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/56ffbe6ac513.html",
-      "condition": "used"
-    },
-    {
-      "name": "Model 3 Long Range AWD2025 Tesla",
-      "vin": "5YJ3E1EB4SF932236",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/657785a9e350.html",
       "condition": "used"
     },
     {
@@ -5862,6 +5762,12 @@
       "name": "4Runner2023 Toyota",
       "vin": "JTEKU5JRXP6105087",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/242efc18d62e.html",
+      "condition": "used"
+    },
+    {
+      "name": "4Runner2023 Toyota",
+      "vin": "JTENU5JR7P6090125",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/5d2d6c462413.html",
       "condition": "used"
     },
     {
@@ -5951,6 +5857,12 @@
       "condition": "used"
     },
     {
+      "name": "Land Cruiser 19582025 Toyota",
+      "vin": "JTEABFAJ4SK025544",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/7929b02663b2.html",
+      "condition": "used"
+    },
+    {
       "name": "Prius Prime SE2023 Toyota",
       "vin": "JTDACACUXP3009426",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/9bbe1cd04612.html",
@@ -5998,12 +5910,6 @@
       "name": "RAV4 Limited AWD2022 Toyota",
       "vin": "2T3D1RFV9NC271388",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/be8c3ddd0ccf.html",
-      "condition": "used"
-    },
-    {
-      "name": "Sequoia Hybrid 4x4 TRD Off Road2023 Toyota",
-      "vin": "7SVAAABA0PX015148",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/a680e4e4cd82.html",
       "condition": "used"
     },
     {
@@ -6079,6 +5985,12 @@
       "condition": "used"
     },
     {
+      "name": "Tundra Hybrid CrewMax Limited2024 Toyota",
+      "vin": "5TFWC5DB3RX063138",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/139bfe1571ef.html",
+      "condition": "used"
+    },
+    {
       "name": "Tundra Hybrid CrewMax Limited2025 Toyota",
       "vin": "5TFWC5DB0SX094465",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/8b88dfdadc89.html",
@@ -6102,6 +6014,12 @@
       "name": "Atlas Cross Sport Execline 2.0 TSI 4MOTION2025 Volkswagen",
       "vin": "1V2FE2CA4SC213979",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/29638b6353ad.html",
+      "condition": "used"
+    },
+    {
+      "name": "Beetle Wolfsburg Edition Convertible 2.0T 6sp at w/Tip2019 Volkswagen",
+      "vin": "3VW5DAAT5KM502332",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-langley-mirror/used/db47db60d6fb.html",
       "condition": "used"
     },
     {
